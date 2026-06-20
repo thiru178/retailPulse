@@ -1,0 +1,4001 @@
+CustomerID,Country,Segment
+10001,United Kingdom,Loyal
+10002,Germany,Potential
+10003,United Kingdom,Champions
+10004,United Kingdom,Potential
+10005,France,At-Risk
+10006,United Kingdom,Loyal
+10007,Spain,Loyal
+10008,Switzerland,Loyal
+10009,United Kingdom,Loyal
+10010,USA,Hibernating
+10011,Australia,Champions
+10012,United Kingdom,Potential
+10013,Germany,Potential
+10014,Spain,New
+10015,United Kingdom,Loyal
+10016,France,Champions
+10017,Japan,Champions
+10018,Belgium,Loyal
+10019,United Kingdom,Potential
+10020,Germany,Champions
+10021,Germany,Champions
+10022,United Kingdom,New
+10023,Spain,Hibernating
+10024,France,New
+10025,France,Potential
+10026,Japan,New
+10027,Switzerland,Hibernating
+10028,United Kingdom,Loyal
+10029,Netherlands,New
+10030,United Kingdom,Loyal
+10031,Switzerland,At-Risk
+10032,Belgium,Hibernating
+10033,United Kingdom,Loyal
+10034,United Kingdom,Champions
+10035,Netherlands,Loyal
+10036,United Kingdom,At-Risk
+10037,Japan,Champions
+10038,United Kingdom,Loyal
+10039,United Kingdom,Loyal
+10040,Spain,Champions
+10041,United Kingdom,At-Risk
+10042,Germany,New
+10043,United Kingdom,New
+10044,United Kingdom,Hibernating
+10045,USA,Champions
+10046,Australia,Hibernating
+10047,United Kingdom,Champions
+10048,USA,At-Risk
+10049,Netherlands,New
+10050,Germany,Potential
+10051,Germany,Hibernating
+10052,Japan,New
+10053,United Kingdom,New
+10054,United Kingdom,New
+10055,United Kingdom,Potential
+10056,Belgium,Potential
+10057,United Kingdom,New
+10058,Japan,Hibernating
+10059,Germany,New
+10060,France,Potential
+10061,United Kingdom,Potential
+10062,United Kingdom,New
+10063,United Kingdom,At-Risk
+10064,United Kingdom,Loyal
+10065,United Kingdom,At-Risk
+10066,Belgium,New
+10067,United Kingdom,New
+10068,United Kingdom,Champions
+10069,United Kingdom,Potential
+10070,Germany,At-Risk
+10071,United Kingdom,Champions
+10072,Belgium,Potential
+10073,United Kingdom,Champions
+10074,USA,Loyal
+10075,Switzerland,Hibernating
+10076,United Kingdom,Loyal
+10077,United Kingdom,Champions
+10078,Germany,Loyal
+10079,United Kingdom,At-Risk
+10080,Belgium,Loyal
+10081,France,Potential
+10082,Netherlands,Loyal
+10083,USA,Champions
+10084,Germany,At-Risk
+10085,Germany,New
+10086,United Kingdom,Potential
+10087,United Kingdom,Hibernating
+10088,Spain,Potential
+10089,United Kingdom,Potential
+10090,Belgium,Potential
+10091,France,Champions
+10092,Belgium,Hibernating
+10093,Belgium,At-Risk
+10094,Germany,Potential
+10095,United Kingdom,Hibernating
+10096,France,Champions
+10097,Australia,New
+10098,United Kingdom,At-Risk
+10099,France,New
+10100,Spain,New
+10101,United Kingdom,Hibernating
+10102,USA,At-Risk
+10103,France,Hibernating
+10104,Belgium,New
+10105,United Kingdom,Potential
+10106,France,At-Risk
+10107,Australia,Champions
+10108,United Kingdom,New
+10109,United Kingdom,New
+10110,Germany,Potential
+10111,United Kingdom,Champions
+10112,United Kingdom,At-Risk
+10113,United Kingdom,Loyal
+10114,United Kingdom,At-Risk
+10115,United Kingdom,Hibernating
+10116,Spain,At-Risk
+10117,Germany,Hibernating
+10118,USA,Champions
+10119,United Kingdom,New
+10120,United Kingdom,Loyal
+10121,Spain,Potential
+10122,Netherlands,New
+10123,Belgium,Champions
+10124,United Kingdom,New
+10125,Spain,At-Risk
+10126,Spain,At-Risk
+10127,United Kingdom,Hibernating
+10128,United Kingdom,Potential
+10129,Germany,At-Risk
+10130,Spain,At-Risk
+10131,United Kingdom,Loyal
+10132,United Kingdom,Loyal
+10133,United Kingdom,Potential
+10134,Germany,Potential
+10135,United Kingdom,Loyal
+10136,Netherlands,At-Risk
+10137,Netherlands,Hibernating
+10138,France,Champions
+10139,Switzerland,At-Risk
+10140,United Kingdom,Loyal
+10141,United Kingdom,Potential
+10142,Germany,At-Risk
+10143,United Kingdom,Champions
+10144,Germany,Potential
+10145,USA,Potential
+10146,Australia,New
+10147,United Kingdom,Champions
+10148,Germany,New
+10149,United Kingdom,At-Risk
+10150,United Kingdom,Champions
+10151,United Kingdom,New
+10152,United Kingdom,Champions
+10153,United Kingdom,Champions
+10154,Germany,Potential
+10155,United Kingdom,Loyal
+10156,Switzerland,At-Risk
+10157,United Kingdom,Loyal
+10158,United Kingdom,New
+10159,France,Hibernating
+10160,United Kingdom,Hibernating
+10161,United Kingdom,New
+10162,United Kingdom,Hibernating
+10163,USA,At-Risk
+10164,Germany,Champions
+10165,France,Potential
+10166,United Kingdom,Loyal
+10167,France,At-Risk
+10168,Spain,Loyal
+10169,United Kingdom,Hibernating
+10170,United Kingdom,Champions
+10171,United Kingdom,Potential
+10172,France,At-Risk
+10173,United Kingdom,At-Risk
+10174,Spain,Potential
+10175,Australia,Champions
+10176,Spain,At-Risk
+10177,Belgium,Potential
+10178,France,Loyal
+10179,United Kingdom,Hibernating
+10180,United Kingdom,Loyal
+10181,Japan,Loyal
+10182,United Kingdom,Loyal
+10183,Belgium,Hibernating
+10184,Netherlands,Hibernating
+10185,Japan,New
+10186,United Kingdom,Potential
+10187,United Kingdom,New
+10188,USA,Hibernating
+10189,Germany,New
+10190,United Kingdom,Champions
+10191,Japan,Potential
+10192,United Kingdom,At-Risk
+10193,United Kingdom,Loyal
+10194,USA,Hibernating
+10195,France,Champions
+10196,USA,Potential
+10197,Switzerland,Hibernating
+10198,United Kingdom,Loyal
+10199,United Kingdom,Potential
+10200,United Kingdom,At-Risk
+10201,United Kingdom,Hibernating
+10202,United Kingdom,New
+10203,USA,New
+10204,United Kingdom,At-Risk
+10205,United Kingdom,Champions
+10206,Australia,At-Risk
+10207,United Kingdom,New
+10208,United Kingdom,New
+10209,Switzerland,Hibernating
+10210,United Kingdom,Champions
+10211,United Kingdom,At-Risk
+10212,United Kingdom,New
+10213,Australia,Champions
+10214,France,Hibernating
+10215,United Kingdom,Champions
+10216,United Kingdom,At-Risk
+10217,France,New
+10218,France,Champions
+10219,United Kingdom,Hibernating
+10220,United Kingdom,At-Risk
+10221,United Kingdom,Potential
+10222,United Kingdom,Champions
+10223,USA,Hibernating
+10224,Belgium,Potential
+10225,United Kingdom,Hibernating
+10226,United Kingdom,New
+10227,United Kingdom,Champions
+10228,United Kingdom,Champions
+10229,France,Loyal
+10230,United Kingdom,Potential
+10231,United Kingdom,Potential
+10232,United Kingdom,New
+10233,USA,Loyal
+10234,United Kingdom,Loyal
+10235,United Kingdom,Hibernating
+10236,Germany,Loyal
+10237,Australia,At-Risk
+10238,Belgium,New
+10239,United Kingdom,Hibernating
+10240,United Kingdom,Champions
+10241,United Kingdom,At-Risk
+10242,Switzerland,Hibernating
+10243,USA,New
+10244,Australia,New
+10245,Germany,At-Risk
+10246,United Kingdom,Hibernating
+10247,United Kingdom,At-Risk
+10248,Australia,Potential
+10249,United Kingdom,New
+10250,United Kingdom,New
+10251,United Kingdom,Potential
+10252,United Kingdom,New
+10253,United Kingdom,Potential
+10254,Belgium,Potential
+10255,USA,New
+10256,USA,Loyal
+10257,Germany,Hibernating
+10258,United Kingdom,Champions
+10259,Australia,New
+10260,United Kingdom,New
+10261,United Kingdom,Loyal
+10262,United Kingdom,Potential
+10263,USA,Champions
+10264,United Kingdom,At-Risk
+10265,United Kingdom,Potential
+10266,United Kingdom,Champions
+10267,Australia,Potential
+10268,Australia,New
+10269,USA,Potential
+10270,Netherlands,New
+10271,Australia,Champions
+10272,France,Loyal
+10273,France,At-Risk
+10274,USA,Potential
+10275,United Kingdom,Champions
+10276,Belgium,Potential
+10277,Australia,New
+10278,United Kingdom,At-Risk
+10279,Japan,Champions
+10280,United Kingdom,Champions
+10281,United Kingdom,At-Risk
+10282,United Kingdom,Loyal
+10283,Germany,Hibernating
+10284,Spain,Loyal
+10285,United Kingdom,Champions
+10286,France,New
+10287,France,Loyal
+10288,United Kingdom,Hibernating
+10289,United Kingdom,New
+10290,France,New
+10291,United Kingdom,Champions
+10292,Japan,New
+10293,Japan,Potential
+10294,Germany,Champions
+10295,United Kingdom,At-Risk
+10296,USA,At-Risk
+10297,France,New
+10298,Spain,New
+10299,Australia,Loyal
+10300,USA,New
+10301,United Kingdom,New
+10302,Germany,Hibernating
+10303,United Kingdom,Potential
+10304,United Kingdom,Potential
+10305,United Kingdom,Champions
+10306,Germany,Potential
+10307,Belgium,Champions
+10308,Japan,Potential
+10309,United Kingdom,At-Risk
+10310,Belgium,Loyal
+10311,France,At-Risk
+10312,United Kingdom,Loyal
+10313,France,Potential
+10314,Netherlands,Potential
+10315,Spain,Loyal
+10316,France,Potential
+10317,France,At-Risk
+10318,Belgium,Champions
+10319,Germany,Potential
+10320,United Kingdom,At-Risk
+10321,United Kingdom,New
+10322,United Kingdom,Loyal
+10323,Belgium,At-Risk
+10324,Germany,At-Risk
+10325,Switzerland,At-Risk
+10326,Japan,New
+10327,USA,At-Risk
+10328,Netherlands,At-Risk
+10329,Switzerland,New
+10330,USA,Loyal
+10331,Netherlands,Loyal
+10332,Australia,Potential
+10333,Spain,New
+10334,USA,Hibernating
+10335,United Kingdom,New
+10336,United Kingdom,Hibernating
+10337,United Kingdom,At-Risk
+10338,Spain,Potential
+10339,United Kingdom,New
+10340,Switzerland,At-Risk
+10341,United Kingdom,Loyal
+10342,United Kingdom,Hibernating
+10343,Japan,Hibernating
+10344,United Kingdom,Hibernating
+10345,United Kingdom,Champions
+10346,France,New
+10347,Japan,At-Risk
+10348,France,Champions
+10349,United Kingdom,Champions
+10350,United Kingdom,New
+10351,United Kingdom,Loyal
+10352,Japan,Loyal
+10353,United Kingdom,At-Risk
+10354,Spain,Potential
+10355,Spain,Hibernating
+10356,United Kingdom,Potential
+10357,Netherlands,New
+10358,France,New
+10359,France,At-Risk
+10360,United Kingdom,At-Risk
+10361,United Kingdom,New
+10362,USA,At-Risk
+10363,United Kingdom,Potential
+10364,United Kingdom,Potential
+10365,United Kingdom,New
+10366,United Kingdom,Champions
+10367,USA,New
+10368,United Kingdom,Loyal
+10369,France,Hibernating
+10370,USA,Champions
+10371,Belgium,Loyal
+10372,USA,Hibernating
+10373,United Kingdom,Hibernating
+10374,United Kingdom,Loyal
+10375,Switzerland,Loyal
+10376,United Kingdom,Loyal
+10377,Belgium,Hibernating
+10378,United Kingdom,Loyal
+10379,USA,Hibernating
+10380,United Kingdom,Loyal
+10381,United Kingdom,Champions
+10382,United Kingdom,At-Risk
+10383,Belgium,Loyal
+10384,France,Champions
+10385,United Kingdom,Champions
+10386,United Kingdom,New
+10387,Germany,Potential
+10388,United Kingdom,New
+10389,Belgium,Hibernating
+10390,France,New
+10391,Germany,Hibernating
+10392,United Kingdom,Potential
+10393,Germany,New
+10394,France,Champions
+10395,United Kingdom,New
+10396,Australia,New
+10397,Spain,New
+10398,Netherlands,New
+10399,United Kingdom,Champions
+10400,United Kingdom,Loyal
+10401,United Kingdom,At-Risk
+10402,France,Hibernating
+10403,Germany,At-Risk
+10404,United Kingdom,Hibernating
+10405,Germany,New
+10406,Germany,New
+10407,United Kingdom,Potential
+10408,United Kingdom,Potential
+10409,France,Hibernating
+10410,Netherlands,Loyal
+10411,United Kingdom,Loyal
+10412,United Kingdom,New
+10413,United Kingdom,Potential
+10414,United Kingdom,New
+10415,United Kingdom,At-Risk
+10416,United Kingdom,Loyal
+10417,Spain,New
+10418,United Kingdom,Champions
+10419,United Kingdom,Champions
+10420,Netherlands,At-Risk
+10421,Switzerland,Hibernating
+10422,United Kingdom,Hibernating
+10423,Germany,Potential
+10424,United Kingdom,At-Risk
+10425,Australia,New
+10426,Australia,Potential
+10427,United Kingdom,At-Risk
+10428,France,At-Risk
+10429,United Kingdom,Hibernating
+10430,United Kingdom,Potential
+10431,United Kingdom,Champions
+10432,United Kingdom,Hibernating
+10433,United Kingdom,At-Risk
+10434,Germany,New
+10435,Australia,Hibernating
+10436,France,Potential
+10437,Germany,Hibernating
+10438,Japan,Potential
+10439,United Kingdom,Loyal
+10440,United Kingdom,At-Risk
+10441,Japan,At-Risk
+10442,United Kingdom,Loyal
+10443,Germany,New
+10444,United Kingdom,Potential
+10445,France,Champions
+10446,United Kingdom,Hibernating
+10447,United Kingdom,New
+10448,United Kingdom,Loyal
+10449,United Kingdom,Potential
+10450,United Kingdom,Hibernating
+10451,France,Champions
+10452,United Kingdom,Hibernating
+10453,United Kingdom,Champions
+10454,United Kingdom,Potential
+10455,United Kingdom,Hibernating
+10456,United Kingdom,At-Risk
+10457,United Kingdom,Hibernating
+10458,United Kingdom,New
+10459,United Kingdom,Potential
+10460,Spain,New
+10461,Germany,At-Risk
+10462,United Kingdom,New
+10463,USA,Champions
+10464,United Kingdom,At-Risk
+10465,USA,Loyal
+10466,Belgium,At-Risk
+10467,United Kingdom,Champions
+10468,United Kingdom,New
+10469,United Kingdom,New
+10470,Germany,Loyal
+10471,Germany,Potential
+10472,Switzerland,Champions
+10473,United Kingdom,Potential
+10474,United Kingdom,Champions
+10475,United Kingdom,Champions
+10476,Australia,Hibernating
+10477,United Kingdom,New
+10478,Spain,New
+10479,United Kingdom,New
+10480,United Kingdom,At-Risk
+10481,United Kingdom,Hibernating
+10482,United Kingdom,Potential
+10483,Japan,Champions
+10484,United Kingdom,Champions
+10485,United Kingdom,Hibernating
+10486,United Kingdom,Champions
+10487,United Kingdom,At-Risk
+10488,Netherlands,Loyal
+10489,United Kingdom,Loyal
+10490,United Kingdom,Potential
+10491,United Kingdom,Hibernating
+10492,United Kingdom,At-Risk
+10493,United Kingdom,Potential
+10494,Switzerland,Loyal
+10495,United Kingdom,At-Risk
+10496,United Kingdom,Hibernating
+10497,United Kingdom,Potential
+10498,United Kingdom,Potential
+10499,United Kingdom,Hibernating
+10500,Netherlands,New
+10501,Spain,Hibernating
+10502,France,Hibernating
+10503,United Kingdom,Potential
+10504,United Kingdom,New
+10505,United Kingdom,New
+10506,France,At-Risk
+10507,France,At-Risk
+10508,Germany,At-Risk
+10509,United Kingdom,Champions
+10510,United Kingdom,At-Risk
+10511,United Kingdom,Champions
+10512,France,Hibernating
+10513,United Kingdom,Hibernating
+10514,Germany,Potential
+10515,Japan,New
+10516,Japan,Hibernating
+10517,France,At-Risk
+10518,France,Hibernating
+10519,United Kingdom,Champions
+10520,United Kingdom,At-Risk
+10521,USA,Champions
+10522,Germany,Loyal
+10523,United Kingdom,Potential
+10524,United Kingdom,New
+10525,Germany,Hibernating
+10526,United Kingdom,At-Risk
+10527,Japan,New
+10528,United Kingdom,At-Risk
+10529,Spain,Champions
+10530,Belgium,Potential
+10531,United Kingdom,At-Risk
+10532,United Kingdom,Potential
+10533,United Kingdom,At-Risk
+10534,Netherlands,Potential
+10535,USA,Hibernating
+10536,Australia,At-Risk
+10537,United Kingdom,Potential
+10538,United Kingdom,At-Risk
+10539,United Kingdom,Potential
+10540,Spain,New
+10541,United Kingdom,Potential
+10542,Japan,At-Risk
+10543,Germany,Potential
+10544,Belgium,Loyal
+10545,Spain,Potential
+10546,USA,Hibernating
+10547,United Kingdom,Potential
+10548,United Kingdom,At-Risk
+10549,United Kingdom,At-Risk
+10550,United Kingdom,Loyal
+10551,United Kingdom,New
+10552,United Kingdom,Loyal
+10553,United Kingdom,At-Risk
+10554,Australia,Champions
+10555,Germany,Hibernating
+10556,Switzerland,Hibernating
+10557,United Kingdom,At-Risk
+10558,Australia,Hibernating
+10559,United Kingdom,New
+10560,United Kingdom,Loyal
+10561,Switzerland,Hibernating
+10562,Switzerland,Loyal
+10563,Netherlands,Champions
+10564,United Kingdom,Potential
+10565,Netherlands,New
+10566,France,Potential
+10567,Belgium,Loyal
+10568,Germany,At-Risk
+10569,USA,New
+10570,Japan,Loyal
+10571,United Kingdom,Hibernating
+10572,USA,New
+10573,Belgium,New
+10574,Germany,New
+10575,USA,Loyal
+10576,Switzerland,Loyal
+10577,Australia,Champions
+10578,France,At-Risk
+10579,Germany,Champions
+10580,Netherlands,Hibernating
+10581,Australia,At-Risk
+10582,United Kingdom,Loyal
+10583,United Kingdom,Hibernating
+10584,United Kingdom,New
+10585,United Kingdom,Loyal
+10586,Switzerland,At-Risk
+10587,Japan,New
+10588,United Kingdom,Hibernating
+10589,United Kingdom,New
+10590,USA,At-Risk
+10591,United Kingdom,At-Risk
+10592,Japan,Potential
+10593,France,Loyal
+10594,United Kingdom,At-Risk
+10595,Japan,New
+10596,Spain,Loyal
+10597,Netherlands,New
+10598,United Kingdom,Champions
+10599,Japan,Champions
+10600,United Kingdom,Loyal
+10601,Germany,Potential
+10602,France,New
+10603,United Kingdom,At-Risk
+10604,United Kingdom,Champions
+10605,United Kingdom,New
+10606,France,Hibernating
+10607,United Kingdom,Champions
+10608,Switzerland,New
+10609,France,Champions
+10610,France,Hibernating
+10611,United Kingdom,Loyal
+10612,United Kingdom,Champions
+10613,France,Loyal
+10614,Germany,Loyal
+10615,Spain,Champions
+10616,Germany,At-Risk
+10617,United Kingdom,Hibernating
+10618,Germany,Hibernating
+10619,Germany,New
+10620,Australia,Champions
+10621,France,At-Risk
+10622,United Kingdom,Champions
+10623,United Kingdom,Champions
+10624,United Kingdom,Potential
+10625,France,Champions
+10626,Belgium,Potential
+10627,Netherlands,Loyal
+10628,United Kingdom,Hibernating
+10629,United Kingdom,Potential
+10630,United Kingdom,Potential
+10631,United Kingdom,Potential
+10632,United Kingdom,Loyal
+10633,Switzerland,Champions
+10634,Netherlands,New
+10635,United Kingdom,Loyal
+10636,United Kingdom,Loyal
+10637,Japan,At-Risk
+10638,Japan,Hibernating
+10639,United Kingdom,Hibernating
+10640,United Kingdom,Champions
+10641,Netherlands,Loyal
+10642,United Kingdom,Champions
+10643,Australia,At-Risk
+10644,United Kingdom,At-Risk
+10645,United Kingdom,New
+10646,Netherlands,New
+10647,United Kingdom,Loyal
+10648,United Kingdom,New
+10649,United Kingdom,Hibernating
+10650,United Kingdom,Champions
+10651,Netherlands,Champions
+10652,United Kingdom,Loyal
+10653,Germany,At-Risk
+10654,United Kingdom,At-Risk
+10655,Spain,At-Risk
+10656,United Kingdom,Potential
+10657,United Kingdom,Potential
+10658,United Kingdom,New
+10659,United Kingdom,At-Risk
+10660,France,New
+10661,United Kingdom,Champions
+10662,United Kingdom,Potential
+10663,United Kingdom,Hibernating
+10664,Switzerland,Potential
+10665,United Kingdom,Champions
+10666,United Kingdom,Hibernating
+10667,Spain,New
+10668,United Kingdom,Champions
+10669,United Kingdom,Potential
+10670,United Kingdom,New
+10671,USA,Champions
+10672,France,Potential
+10673,United Kingdom,At-Risk
+10674,United Kingdom,Champions
+10675,Germany,Hibernating
+10676,United Kingdom,At-Risk
+10677,France,Loyal
+10678,USA,Champions
+10679,Netherlands,New
+10680,Germany,Hibernating
+10681,United Kingdom,At-Risk
+10682,Spain,Loyal
+10683,USA,At-Risk
+10684,Spain,New
+10685,United Kingdom,Loyal
+10686,Australia,New
+10687,United Kingdom,Potential
+10688,United Kingdom,Champions
+10689,Switzerland,At-Risk
+10690,Spain,Potential
+10691,United Kingdom,Hibernating
+10692,United Kingdom,At-Risk
+10693,Australia,Potential
+10694,Spain,Potential
+10695,France,At-Risk
+10696,Germany,Champions
+10697,USA,Loyal
+10698,United Kingdom,New
+10699,United Kingdom,Hibernating
+10700,Germany,New
+10701,Switzerland,Hibernating
+10702,United Kingdom,Champions
+10703,United Kingdom,New
+10704,USA,Potential
+10705,United Kingdom,New
+10706,Belgium,Hibernating
+10707,United Kingdom,At-Risk
+10708,France,New
+10709,United Kingdom,Hibernating
+10710,United Kingdom,Hibernating
+10711,France,Loyal
+10712,Belgium,Loyal
+10713,United Kingdom,Champions
+10714,Switzerland,Hibernating
+10715,United Kingdom,Loyal
+10716,United Kingdom,Potential
+10717,United Kingdom,Hibernating
+10718,Japan,Champions
+10719,United Kingdom,Potential
+10720,USA,At-Risk
+10721,United Kingdom,At-Risk
+10722,France,Champions
+10723,Germany,Loyal
+10724,France,Hibernating
+10725,United Kingdom,Potential
+10726,France,Hibernating
+10727,United Kingdom,Hibernating
+10728,United Kingdom,Champions
+10729,United Kingdom,Potential
+10730,Belgium,At-Risk
+10731,France,Hibernating
+10732,United Kingdom,Potential
+10733,United Kingdom,Potential
+10734,Germany,Potential
+10735,USA,New
+10736,United Kingdom,Potential
+10737,United Kingdom,New
+10738,United Kingdom,Champions
+10739,United Kingdom,New
+10740,United Kingdom,Loyal
+10741,United Kingdom,Loyal
+10742,United Kingdom,Potential
+10743,United Kingdom,At-Risk
+10744,USA,Loyal
+10745,Belgium,Hibernating
+10746,Germany,At-Risk
+10747,United Kingdom,Champions
+10748,United Kingdom,Loyal
+10749,United Kingdom,Champions
+10750,United Kingdom,New
+10751,Australia,New
+10752,United Kingdom,Loyal
+10753,Switzerland,Hibernating
+10754,Netherlands,Loyal
+10755,Belgium,New
+10756,USA,New
+10757,United Kingdom,At-Risk
+10758,United Kingdom,Champions
+10759,USA,Hibernating
+10760,United Kingdom,Loyal
+10761,United Kingdom,At-Risk
+10762,United Kingdom,At-Risk
+10763,United Kingdom,Potential
+10764,Spain,At-Risk
+10765,Germany,Champions
+10766,United Kingdom,At-Risk
+10767,Netherlands,New
+10768,United Kingdom,New
+10769,United Kingdom,Hibernating
+10770,United Kingdom,Hibernating
+10771,United Kingdom,New
+10772,Germany,Hibernating
+10773,United Kingdom,Hibernating
+10774,Spain,Champions
+10775,United Kingdom,Champions
+10776,United Kingdom,At-Risk
+10777,Germany,At-Risk
+10778,Netherlands,Loyal
+10779,France,New
+10780,Germany,Champions
+10781,United Kingdom,Potential
+10782,United Kingdom,New
+10783,Germany,Loyal
+10784,France,Hibernating
+10785,United Kingdom,Hibernating
+10786,United Kingdom,New
+10787,USA,Potential
+10788,Australia,Hibernating
+10789,United Kingdom,Hibernating
+10790,Germany,Potential
+10791,Germany,New
+10792,Switzerland,At-Risk
+10793,United Kingdom,Champions
+10794,USA,Hibernating
+10795,United Kingdom,Potential
+10796,Australia,Potential
+10797,United Kingdom,New
+10798,United Kingdom,Potential
+10799,Belgium,Hibernating
+10800,Germany,Potential
+10801,United Kingdom,New
+10802,United Kingdom,Potential
+10803,Netherlands,New
+10804,United Kingdom,Potential
+10805,United Kingdom,Hibernating
+10806,USA,Champions
+10807,United Kingdom,New
+10808,United Kingdom,Loyal
+10809,United Kingdom,Loyal
+10810,United Kingdom,Hibernating
+10811,Japan,Potential
+10812,Netherlands,Potential
+10813,United Kingdom,Loyal
+10814,Germany,Potential
+10815,United Kingdom,New
+10816,United Kingdom,Loyal
+10817,United Kingdom,Hibernating
+10818,United Kingdom,At-Risk
+10819,Spain,Potential
+10820,Spain,Potential
+10821,United Kingdom,New
+10822,United Kingdom,Loyal
+10823,United Kingdom,At-Risk
+10824,United Kingdom,At-Risk
+10825,Belgium,Potential
+10826,United Kingdom,Potential
+10827,United Kingdom,New
+10828,United Kingdom,Potential
+10829,United Kingdom,Champions
+10830,Germany,Hibernating
+10831,United Kingdom,New
+10832,Switzerland,Loyal
+10833,United Kingdom,At-Risk
+10834,USA,Champions
+10835,United Kingdom,New
+10836,France,Potential
+10837,United Kingdom,Loyal
+10838,Switzerland,At-Risk
+10839,Japan,Potential
+10840,United Kingdom,Champions
+10841,France,Hibernating
+10842,United Kingdom,Champions
+10843,Spain,Hibernating
+10844,United Kingdom,Loyal
+10845,United Kingdom,New
+10846,United Kingdom,New
+10847,United Kingdom,Loyal
+10848,United Kingdom,Hibernating
+10849,USA,Loyal
+10850,United Kingdom,New
+10851,United Kingdom,Loyal
+10852,Netherlands,At-Risk
+10853,United Kingdom,Potential
+10854,United Kingdom,Champions
+10855,France,Loyal
+10856,Germany,Potential
+10857,Australia,Champions
+10858,Japan,Loyal
+10859,United Kingdom,Loyal
+10860,Japan,Champions
+10861,USA,New
+10862,Belgium,Loyal
+10863,Japan,At-Risk
+10864,Australia,Champions
+10865,United Kingdom,Hibernating
+10866,United Kingdom,At-Risk
+10867,United Kingdom,Potential
+10868,Germany,New
+10869,Japan,Loyal
+10870,Australia,New
+10871,United Kingdom,Champions
+10872,United Kingdom,Potential
+10873,United Kingdom,At-Risk
+10874,Netherlands,Champions
+10875,Netherlands,At-Risk
+10876,Germany,Loyal
+10877,United Kingdom,Potential
+10878,Japan,New
+10879,Germany,Champions
+10880,United Kingdom,Champions
+10881,United Kingdom,Loyal
+10882,United Kingdom,Loyal
+10883,United Kingdom,New
+10884,United Kingdom,At-Risk
+10885,USA,At-Risk
+10886,France,Hibernating
+10887,United Kingdom,Potential
+10888,United Kingdom,Loyal
+10889,United Kingdom,Champions
+10890,United Kingdom,Loyal
+10891,United Kingdom,Hibernating
+10892,Japan,Potential
+10893,Belgium,Potential
+10894,United Kingdom,At-Risk
+10895,United Kingdom,Loyal
+10896,United Kingdom,Loyal
+10897,United Kingdom,New
+10898,Netherlands,Hibernating
+10899,United Kingdom,Potential
+10900,Germany,New
+10901,Netherlands,Potential
+10902,Switzerland,Loyal
+10903,Spain,Hibernating
+10904,Australia,Champions
+10905,Germany,Hibernating
+10906,Spain,Champions
+10907,Japan,Champions
+10908,United Kingdom,Hibernating
+10909,Japan,Loyal
+10910,Germany,Loyal
+10911,United Kingdom,Hibernating
+10912,United Kingdom,Potential
+10913,United Kingdom,Hibernating
+10914,United Kingdom,Hibernating
+10915,United Kingdom,Champions
+10916,United Kingdom,Hibernating
+10917,United Kingdom,Hibernating
+10918,United Kingdom,New
+10919,Spain,At-Risk
+10920,Netherlands,New
+10921,United Kingdom,Champions
+10922,Netherlands,Hibernating
+10923,United Kingdom,New
+10924,United Kingdom,Champions
+10925,Germany,Champions
+10926,Japan,Champions
+10927,USA,New
+10928,United Kingdom,New
+10929,United Kingdom,Loyal
+10930,Belgium,Potential
+10931,France,New
+10932,United Kingdom,New
+10933,United Kingdom,New
+10934,United Kingdom,Potential
+10935,USA,Hibernating
+10936,United Kingdom,At-Risk
+10937,United Kingdom,Hibernating
+10938,United Kingdom,Loyal
+10939,Netherlands,Loyal
+10940,Switzerland,Champions
+10941,USA,New
+10942,Spain,Hibernating
+10943,United Kingdom,New
+10944,Switzerland,Loyal
+10945,United Kingdom,Loyal
+10946,United Kingdom,Potential
+10947,Belgium,Champions
+10948,Switzerland,New
+10949,France,Champions
+10950,United Kingdom,Champions
+10951,United Kingdom,Champions
+10952,United Kingdom,Potential
+10953,Spain,Champions
+10954,United Kingdom,Champions
+10955,United Kingdom,Loyal
+10956,Germany,Champions
+10957,United Kingdom,At-Risk
+10958,United Kingdom,Potential
+10959,Germany,Hibernating
+10960,France,Potential
+10961,Switzerland,Loyal
+10962,United Kingdom,Loyal
+10963,USA,Hibernating
+10964,United Kingdom,At-Risk
+10965,United Kingdom,Hibernating
+10966,USA,Potential
+10967,Japan,Potential
+10968,Spain,Hibernating
+10969,United Kingdom,At-Risk
+10970,USA,Potential
+10971,United Kingdom,Hibernating
+10972,United Kingdom,New
+10973,United Kingdom,At-Risk
+10974,United Kingdom,Hibernating
+10975,United Kingdom,Loyal
+10976,United Kingdom,Potential
+10977,United Kingdom,New
+10978,Japan,Hibernating
+10979,United Kingdom,New
+10980,Germany,Loyal
+10981,United Kingdom,At-Risk
+10982,United Kingdom,Potential
+10983,United Kingdom,New
+10984,Australia,Champions
+10985,Germany,Loyal
+10986,United Kingdom,New
+10987,Spain,Hibernating
+10988,United Kingdom,Champions
+10989,United Kingdom,Hibernating
+10990,Netherlands,Hibernating
+10991,United Kingdom,Loyal
+10992,Australia,At-Risk
+10993,United Kingdom,Champions
+10994,United Kingdom,Loyal
+10995,USA,Champions
+10996,Netherlands,New
+10997,Japan,Potential
+10998,France,Loyal
+10999,United Kingdom,Loyal
+11000,Germany,At-Risk
+11001,United Kingdom,Hibernating
+11002,France,At-Risk
+11003,United Kingdom,Hibernating
+11004,Japan,New
+11005,United Kingdom,Potential
+11006,United Kingdom,At-Risk
+11007,Japan,At-Risk
+11008,United Kingdom,Champions
+11009,Germany,Loyal
+11010,Netherlands,Champions
+11011,United Kingdom,Hibernating
+11012,Germany,New
+11013,United Kingdom,Loyal
+11014,United Kingdom,New
+11015,Germany,Loyal
+11016,United Kingdom,Potential
+11017,USA,At-Risk
+11018,United Kingdom,New
+11019,USA,Potential
+11020,Netherlands,New
+11021,United Kingdom,At-Risk
+11022,United Kingdom,Potential
+11023,Germany,Loyal
+11024,Japan,Hibernating
+11025,USA,Champions
+11026,Germany,Champions
+11027,USA,Potential
+11028,United Kingdom,Champions
+11029,United Kingdom,Potential
+11030,United Kingdom,Potential
+11031,United Kingdom,Loyal
+11032,Germany,At-Risk
+11033,United Kingdom,Potential
+11034,Spain,Hibernating
+11035,Japan,Potential
+11036,United Kingdom,Champions
+11037,Germany,New
+11038,United Kingdom,Hibernating
+11039,Netherlands,Hibernating
+11040,USA,Champions
+11041,Germany,Potential
+11042,Spain,Loyal
+11043,United Kingdom,Champions
+11044,Germany,Loyal
+11045,United Kingdom,Hibernating
+11046,United Kingdom,At-Risk
+11047,United Kingdom,New
+11048,United Kingdom,New
+11049,United Kingdom,Loyal
+11050,USA,Loyal
+11051,United Kingdom,Champions
+11052,France,Potential
+11053,Netherlands,Champions
+11054,United Kingdom,New
+11055,Germany,Champions
+11056,France,Potential
+11057,United Kingdom,New
+11058,Australia,Potential
+11059,Belgium,Hibernating
+11060,USA,Champions
+11061,Japan,Champions
+11062,United Kingdom,Potential
+11063,Japan,New
+11064,United Kingdom,Champions
+11065,Spain,At-Risk
+11066,Japan,Hibernating
+11067,France,Loyal
+11068,Japan,At-Risk
+11069,United Kingdom,Loyal
+11070,France,Potential
+11071,Switzerland,Champions
+11072,United Kingdom,Hibernating
+11073,United Kingdom,New
+11074,Spain,Hibernating
+11075,United Kingdom,Potential
+11076,United Kingdom,Potential
+11077,Netherlands,Hibernating
+11078,Netherlands,At-Risk
+11079,United Kingdom,New
+11080,United Kingdom,Champions
+11081,United Kingdom,Hibernating
+11082,USA,New
+11083,USA,At-Risk
+11084,United Kingdom,At-Risk
+11085,Belgium,New
+11086,United Kingdom,At-Risk
+11087,Germany,New
+11088,United Kingdom,Potential
+11089,France,New
+11090,United Kingdom,Hibernating
+11091,United Kingdom,Loyal
+11092,Netherlands,Champions
+11093,United Kingdom,New
+11094,Netherlands,Potential
+11095,United Kingdom,New
+11096,United Kingdom,Champions
+11097,United Kingdom,At-Risk
+11098,United Kingdom,At-Risk
+11099,United Kingdom,Champions
+11100,United Kingdom,New
+11101,Germany,Hibernating
+11102,United Kingdom,Champions
+11103,United Kingdom,Hibernating
+11104,United Kingdom,Hibernating
+11105,Belgium,New
+11106,United Kingdom,New
+11107,United Kingdom,Champions
+11108,Netherlands,Hibernating
+11109,Japan,Loyal
+11110,Germany,Loyal
+11111,Spain,Loyal
+11112,United Kingdom,At-Risk
+11113,United Kingdom,Loyal
+11114,United Kingdom,New
+11115,United Kingdom,At-Risk
+11116,United Kingdom,Champions
+11117,United Kingdom,Loyal
+11118,Netherlands,New
+11119,France,Loyal
+11120,United Kingdom,Loyal
+11121,United Kingdom,New
+11122,United Kingdom,Hibernating
+11123,United Kingdom,At-Risk
+11124,United Kingdom,New
+11125,Switzerland,Potential
+11126,USA,Loyal
+11127,United Kingdom,Hibernating
+11128,USA,Loyal
+11129,United Kingdom,Loyal
+11130,USA,At-Risk
+11131,United Kingdom,Potential
+11132,France,Hibernating
+11133,Belgium,At-Risk
+11134,United Kingdom,New
+11135,United Kingdom,Hibernating
+11136,United Kingdom,Hibernating
+11137,United Kingdom,Hibernating
+11138,United Kingdom,Potential
+11139,United Kingdom,Potential
+11140,United Kingdom,At-Risk
+11141,Switzerland,Champions
+11142,Switzerland,New
+11143,Spain,Loyal
+11144,France,Loyal
+11145,United Kingdom,Loyal
+11146,Netherlands,New
+11147,United Kingdom,Hibernating
+11148,United Kingdom,New
+11149,Germany,Potential
+11150,United Kingdom,Champions
+11151,Belgium,At-Risk
+11152,Spain,Hibernating
+11153,France,Champions
+11154,United Kingdom,Loyal
+11155,France,At-Risk
+11156,United Kingdom,Hibernating
+11157,United Kingdom,Potential
+11158,Spain,New
+11159,USA,At-Risk
+11160,USA,New
+11161,United Kingdom,Champions
+11162,United Kingdom,Hibernating
+11163,Netherlands,Hibernating
+11164,France,Hibernating
+11165,United Kingdom,At-Risk
+11166,United Kingdom,Potential
+11167,France,Hibernating
+11168,United Kingdom,Champions
+11169,United Kingdom,At-Risk
+11170,United Kingdom,Champions
+11171,United Kingdom,Potential
+11172,United Kingdom,At-Risk
+11173,United Kingdom,Loyal
+11174,Germany,At-Risk
+11175,United Kingdom,New
+11176,Netherlands,New
+11177,United Kingdom,At-Risk
+11178,United Kingdom,Potential
+11179,United Kingdom,At-Risk
+11180,France,Potential
+11181,Switzerland,Potential
+11182,United Kingdom,Loyal
+11183,Germany,At-Risk
+11184,Germany,New
+11185,United Kingdom,New
+11186,France,Loyal
+11187,France,New
+11188,United Kingdom,Potential
+11189,France,Loyal
+11190,United Kingdom,New
+11191,United Kingdom,Potential
+11192,United Kingdom,At-Risk
+11193,Netherlands,Champions
+11194,Germany,Hibernating
+11195,United Kingdom,At-Risk
+11196,United Kingdom,Champions
+11197,United Kingdom,New
+11198,Germany,Potential
+11199,United Kingdom,New
+11200,France,Hibernating
+11201,United Kingdom,At-Risk
+11202,Australia,Hibernating
+11203,United Kingdom,Potential
+11204,Spain,At-Risk
+11205,Japan,Hibernating
+11206,United Kingdom,Loyal
+11207,United Kingdom,Loyal
+11208,United Kingdom,Loyal
+11209,United Kingdom,Loyal
+11210,Germany,New
+11211,France,Hibernating
+11212,United Kingdom,Loyal
+11213,United Kingdom,Hibernating
+11214,Spain,Potential
+11215,Japan,Loyal
+11216,Germany,New
+11217,United Kingdom,Loyal
+11218,United Kingdom,New
+11219,France,At-Risk
+11220,USA,New
+11221,United Kingdom,New
+11222,USA,Hibernating
+11223,France,New
+11224,Spain,New
+11225,Netherlands,New
+11226,United Kingdom,Champions
+11227,Germany,Loyal
+11228,United Kingdom,At-Risk
+11229,United Kingdom,At-Risk
+11230,United Kingdom,New
+11231,Germany,New
+11232,Germany,Champions
+11233,Germany,At-Risk
+11234,Belgium,At-Risk
+11235,Germany,Champions
+11236,Belgium,New
+11237,Germany,New
+11238,United Kingdom,Potential
+11239,Netherlands,At-Risk
+11240,Australia,Champions
+11241,United Kingdom,At-Risk
+11242,Australia,Champions
+11243,United Kingdom,Champions
+11244,Belgium,Loyal
+11245,United Kingdom,Potential
+11246,France,At-Risk
+11247,Australia,Hibernating
+11248,France,Loyal
+11249,France,Loyal
+11250,Switzerland,Champions
+11251,Germany,Hibernating
+11252,United Kingdom,Hibernating
+11253,United Kingdom,Potential
+11254,United Kingdom,Hibernating
+11255,United Kingdom,Hibernating
+11256,USA,Potential
+11257,Switzerland,Loyal
+11258,USA,New
+11259,Japan,At-Risk
+11260,Australia,Loyal
+11261,Spain,Loyal
+11262,United Kingdom,Potential
+11263,United Kingdom,Loyal
+11264,Belgium,Potential
+11265,United Kingdom,Loyal
+11266,Germany,At-Risk
+11267,France,New
+11268,United Kingdom,Potential
+11269,Belgium,Champions
+11270,United Kingdom,Potential
+11271,United Kingdom,At-Risk
+11272,United Kingdom,New
+11273,United Kingdom,Champions
+11274,Australia,Potential
+11275,United Kingdom,New
+11276,France,Potential
+11277,United Kingdom,Champions
+11278,Belgium,New
+11279,United Kingdom,New
+11280,Switzerland,New
+11281,United Kingdom,At-Risk
+11282,United Kingdom,Hibernating
+11283,United Kingdom,New
+11284,Belgium,Potential
+11285,Belgium,Champions
+11286,United Kingdom,New
+11287,United Kingdom,Loyal
+11288,United Kingdom,Champions
+11289,USA,New
+11290,United Kingdom,Potential
+11291,Japan,Potential
+11292,United Kingdom,At-Risk
+11293,United Kingdom,At-Risk
+11294,United Kingdom,At-Risk
+11295,Spain,Potential
+11296,United Kingdom,New
+11297,France,Potential
+11298,Spain,Loyal
+11299,United Kingdom,Champions
+11300,Spain,Champions
+11301,United Kingdom,Champions
+11302,United Kingdom,Loyal
+11303,Germany,New
+11304,United Kingdom,Potential
+11305,United Kingdom,Champions
+11306,USA,New
+11307,Spain,New
+11308,United Kingdom,New
+11309,United Kingdom,Champions
+11310,United Kingdom,At-Risk
+11311,Japan,Loyal
+11312,United Kingdom,Loyal
+11313,France,Potential
+11314,United Kingdom,Hibernating
+11315,Germany,Hibernating
+11316,France,New
+11317,United Kingdom,Loyal
+11318,France,Loyal
+11319,Japan,Hibernating
+11320,Spain,Loyal
+11321,United Kingdom,Champions
+11322,United Kingdom,Champions
+11323,France,New
+11324,United Kingdom,New
+11325,United Kingdom,Loyal
+11326,United Kingdom,Potential
+11327,United Kingdom,Hibernating
+11328,France,Potential
+11329,France,Potential
+11330,United Kingdom,Potential
+11331,Australia,Loyal
+11332,Germany,Hibernating
+11333,United Kingdom,New
+11334,United Kingdom,Champions
+11335,Belgium,Loyal
+11336,United Kingdom,Champions
+11337,United Kingdom,Potential
+11338,France,Hibernating
+11339,Japan,Champions
+11340,USA,At-Risk
+11341,United Kingdom,Hibernating
+11342,United Kingdom,Hibernating
+11343,Spain,New
+11344,USA,Champions
+11345,United Kingdom,Champions
+11346,United Kingdom,Loyal
+11347,United Kingdom,Champions
+11348,USA,New
+11349,Germany,Potential
+11350,Netherlands,New
+11351,United Kingdom,New
+11352,United Kingdom,Hibernating
+11353,Germany,Loyal
+11354,United Kingdom,At-Risk
+11355,United Kingdom,Loyal
+11356,USA,Loyal
+11357,Germany,New
+11358,France,Potential
+11359,Spain,Champions
+11360,United Kingdom,New
+11361,Netherlands,Loyal
+11362,United Kingdom,Champions
+11363,Japan,Champions
+11364,United Kingdom,Hibernating
+11365,United Kingdom,Potential
+11366,Netherlands,Potential
+11367,United Kingdom,Champions
+11368,Spain,Potential
+11369,United Kingdom,New
+11370,USA,Hibernating
+11371,Germany,Potential
+11372,United Kingdom,At-Risk
+11373,United Kingdom,At-Risk
+11374,Netherlands,Champions
+11375,Belgium,Champions
+11376,United Kingdom,New
+11377,United Kingdom,Champions
+11378,United Kingdom,Hibernating
+11379,France,New
+11380,United Kingdom,At-Risk
+11381,United Kingdom,Hibernating
+11382,United Kingdom,Loyal
+11383,United Kingdom,Champions
+11384,Japan,Potential
+11385,Netherlands,Loyal
+11386,Netherlands,Champions
+11387,United Kingdom,Champions
+11388,United Kingdom,New
+11389,United Kingdom,Loyal
+11390,United Kingdom,Champions
+11391,Germany,Potential
+11392,Netherlands,New
+11393,United Kingdom,Loyal
+11394,United Kingdom,Potential
+11395,United Kingdom,Champions
+11396,Germany,Champions
+11397,Germany,Champions
+11398,United Kingdom,Hibernating
+11399,USA,New
+11400,United Kingdom,New
+11401,Australia,At-Risk
+11402,United Kingdom,Hibernating
+11403,United Kingdom,At-Risk
+11404,United Kingdom,Hibernating
+11405,Belgium,Potential
+11406,France,New
+11407,United Kingdom,New
+11408,USA,Loyal
+11409,Netherlands,Hibernating
+11410,Belgium,Loyal
+11411,United Kingdom,New
+11412,United Kingdom,Hibernating
+11413,United Kingdom,Potential
+11414,Australia,At-Risk
+11415,United Kingdom,Potential
+11416,United Kingdom,Potential
+11417,Netherlands,Champions
+11418,United Kingdom,Loyal
+11419,United Kingdom,Champions
+11420,USA,Loyal
+11421,Netherlands,Champions
+11422,United Kingdom,Loyal
+11423,Japan,Hibernating
+11424,United Kingdom,At-Risk
+11425,United Kingdom,Potential
+11426,United Kingdom,Champions
+11427,Germany,Potential
+11428,Switzerland,Champions
+11429,France,Champions
+11430,United Kingdom,Loyal
+11431,United Kingdom,At-Risk
+11432,Australia,New
+11433,Spain,Potential
+11434,United Kingdom,New
+11435,United Kingdom,Champions
+11436,USA,Loyal
+11437,Belgium,Hibernating
+11438,United Kingdom,Champions
+11439,United Kingdom,New
+11440,United Kingdom,Champions
+11441,Germany,Loyal
+11442,United Kingdom,New
+11443,United Kingdom,Champions
+11444,United Kingdom,Potential
+11445,United Kingdom,Potential
+11446,Spain,Champions
+11447,United Kingdom,At-Risk
+11448,United Kingdom,Potential
+11449,United Kingdom,At-Risk
+11450,United Kingdom,Champions
+11451,Spain,At-Risk
+11452,Switzerland,Loyal
+11453,United Kingdom,New
+11454,Australia,Hibernating
+11455,Netherlands,Loyal
+11456,United Kingdom,Champions
+11457,Switzerland,Loyal
+11458,United Kingdom,Champions
+11459,Switzerland,Loyal
+11460,United Kingdom,New
+11461,United Kingdom,Potential
+11462,Japan,Champions
+11463,France,At-Risk
+11464,Japan,Champions
+11465,United Kingdom,Champions
+11466,United Kingdom,Potential
+11467,United Kingdom,Loyal
+11468,United Kingdom,At-Risk
+11469,United Kingdom,New
+11470,United Kingdom,Hibernating
+11471,United Kingdom,Potential
+11472,United Kingdom,Champions
+11473,United Kingdom,New
+11474,United Kingdom,Loyal
+11475,Japan,At-Risk
+11476,United Kingdom,Loyal
+11477,United Kingdom,Hibernating
+11478,France,Potential
+11479,United Kingdom,New
+11480,Japan,New
+11481,United Kingdom,At-Risk
+11482,United Kingdom,New
+11483,United Kingdom,Hibernating
+11484,United Kingdom,Hibernating
+11485,Belgium,New
+11486,Belgium,At-Risk
+11487,United Kingdom,New
+11488,United Kingdom,Hibernating
+11489,Germany,New
+11490,United Kingdom,Champions
+11491,United Kingdom,Loyal
+11492,United Kingdom,At-Risk
+11493,United Kingdom,New
+11494,Germany,Hibernating
+11495,USA,Loyal
+11496,United Kingdom,Potential
+11497,United Kingdom,Hibernating
+11498,Switzerland,Potential
+11499,United Kingdom,Loyal
+11500,Germany,New
+11501,United Kingdom,Loyal
+11502,United Kingdom,Hibernating
+11503,United Kingdom,Potential
+11504,Spain,Hibernating
+11505,United Kingdom,Potential
+11506,United Kingdom,Hibernating
+11507,Germany,Hibernating
+11508,USA,New
+11509,Germany,Loyal
+11510,United Kingdom,Champions
+11511,United Kingdom,Hibernating
+11512,United Kingdom,Hibernating
+11513,United Kingdom,At-Risk
+11514,Japan,Loyal
+11515,Switzerland,At-Risk
+11516,Netherlands,At-Risk
+11517,United Kingdom,Loyal
+11518,France,Loyal
+11519,Belgium,Hibernating
+11520,Australia,Champions
+11521,United Kingdom,Potential
+11522,United Kingdom,Champions
+11523,United Kingdom,At-Risk
+11524,United Kingdom,Loyal
+11525,Netherlands,New
+11526,Belgium,New
+11527,France,Loyal
+11528,Spain,Hibernating
+11529,Spain,Hibernating
+11530,Belgium,Loyal
+11531,Spain,Loyal
+11532,United Kingdom,Potential
+11533,Spain,Loyal
+11534,United Kingdom,Champions
+11535,USA,Hibernating
+11536,United Kingdom,Hibernating
+11537,United Kingdom,Hibernating
+11538,United Kingdom,Hibernating
+11539,United Kingdom,Hibernating
+11540,United Kingdom,New
+11541,United Kingdom,Potential
+11542,United Kingdom,At-Risk
+11543,USA,Loyal
+11544,France,Champions
+11545,Switzerland,Potential
+11546,France,At-Risk
+11547,United Kingdom,At-Risk
+11548,United Kingdom,Potential
+11549,United Kingdom,At-Risk
+11550,Belgium,Potential
+11551,United Kingdom,New
+11552,United Kingdom,New
+11553,USA,New
+11554,United Kingdom,New
+11555,United Kingdom,New
+11556,United Kingdom,New
+11557,Belgium,Hibernating
+11558,France,Potential
+11559,United Kingdom,New
+11560,United Kingdom,Champions
+11561,United Kingdom,At-Risk
+11562,United Kingdom,Champions
+11563,United Kingdom,Loyal
+11564,Japan,Loyal
+11565,Netherlands,Hibernating
+11566,USA,Champions
+11567,United Kingdom,Hibernating
+11568,Japan,Potential
+11569,United Kingdom,Potential
+11570,United Kingdom,New
+11571,United Kingdom,Champions
+11572,United Kingdom,Loyal
+11573,United Kingdom,Hibernating
+11574,Netherlands,Potential
+11575,Germany,Potential
+11576,United Kingdom,Loyal
+11577,United Kingdom,New
+11578,Germany,New
+11579,United Kingdom,At-Risk
+11580,United Kingdom,Champions
+11581,United Kingdom,Potential
+11582,France,New
+11583,United Kingdom,Champions
+11584,United Kingdom,Potential
+11585,United Kingdom,Champions
+11586,United Kingdom,Champions
+11587,United Kingdom,New
+11588,United Kingdom,Potential
+11589,United Kingdom,Potential
+11590,Germany,Loyal
+11591,United Kingdom,New
+11592,United Kingdom,New
+11593,United Kingdom,New
+11594,United Kingdom,Loyal
+11595,Switzerland,Hibernating
+11596,United Kingdom,Potential
+11597,Spain,Champions
+11598,Spain,Hibernating
+11599,United Kingdom,Hibernating
+11600,United Kingdom,Champions
+11601,Australia,Hibernating
+11602,United Kingdom,Hibernating
+11603,Spain,New
+11604,Germany,Loyal
+11605,United Kingdom,Champions
+11606,United Kingdom,Potential
+11607,United Kingdom,Hibernating
+11608,Japan,Hibernating
+11609,Spain,Hibernating
+11610,United Kingdom,New
+11611,United Kingdom,Loyal
+11612,USA,Loyal
+11613,United Kingdom,New
+11614,United Kingdom,Potential
+11615,United Kingdom,Potential
+11616,United Kingdom,Hibernating
+11617,United Kingdom,Potential
+11618,Japan,Champions
+11619,United Kingdom,Hibernating
+11620,United Kingdom,At-Risk
+11621,Australia,Hibernating
+11622,United Kingdom,Champions
+11623,Belgium,Hibernating
+11624,France,New
+11625,United Kingdom,Loyal
+11626,United Kingdom,Hibernating
+11627,France,Champions
+11628,Japan,Hibernating
+11629,Belgium,At-Risk
+11630,Australia,At-Risk
+11631,Australia,At-Risk
+11632,United Kingdom,New
+11633,Germany,New
+11634,United Kingdom,At-Risk
+11635,United Kingdom,Hibernating
+11636,France,Potential
+11637,United Kingdom,New
+11638,Japan,At-Risk
+11639,Spain,Champions
+11640,Netherlands,At-Risk
+11641,Japan,Champions
+11642,United Kingdom,At-Risk
+11643,United Kingdom,New
+11644,Australia,Potential
+11645,United Kingdom,Loyal
+11646,United Kingdom,Potential
+11647,United Kingdom,At-Risk
+11648,United Kingdom,New
+11649,France,Champions
+11650,United Kingdom,Loyal
+11651,Japan,New
+11652,Netherlands,Hibernating
+11653,Australia,Champions
+11654,Germany,Loyal
+11655,United Kingdom,Potential
+11656,Germany,Loyal
+11657,Belgium,Hibernating
+11658,Australia,Champions
+11659,United Kingdom,Loyal
+11660,Switzerland,Loyal
+11661,United Kingdom,Champions
+11662,Japan,Potential
+11663,United Kingdom,At-Risk
+11664,Switzerland,Hibernating
+11665,United Kingdom,Champions
+11666,Spain,Loyal
+11667,United Kingdom,Hibernating
+11668,United Kingdom,New
+11669,France,At-Risk
+11670,United Kingdom,At-Risk
+11671,Netherlands,Potential
+11672,United Kingdom,Champions
+11673,United Kingdom,Loyal
+11674,Australia,Loyal
+11675,Australia,Potential
+11676,United Kingdom,Loyal
+11677,United Kingdom,New
+11678,Germany,Potential
+11679,United Kingdom,Loyal
+11680,France,Hibernating
+11681,Switzerland,Loyal
+11682,United Kingdom,At-Risk
+11683,Netherlands,Potential
+11684,France,New
+11685,Japan,At-Risk
+11686,United Kingdom,Loyal
+11687,United Kingdom,Potential
+11688,Germany,Hibernating
+11689,United Kingdom,Champions
+11690,United Kingdom,Potential
+11691,USA,At-Risk
+11692,Germany,Hibernating
+11693,France,At-Risk
+11694,Spain,New
+11695,United Kingdom,At-Risk
+11696,France,At-Risk
+11697,United Kingdom,Potential
+11698,USA,Potential
+11699,United Kingdom,Loyal
+11700,Germany,Loyal
+11701,Japan,Hibernating
+11702,United Kingdom,At-Risk
+11703,Spain,Potential
+11704,United Kingdom,New
+11705,USA,At-Risk
+11706,Japan,New
+11707,United Kingdom,Champions
+11708,France,Hibernating
+11709,Switzerland,At-Risk
+11710,Netherlands,Loyal
+11711,Spain,Potential
+11712,Belgium,Potential
+11713,United Kingdom,At-Risk
+11714,Australia,Potential
+11715,Australia,Loyal
+11716,United Kingdom,New
+11717,United Kingdom,At-Risk
+11718,Netherlands,Hibernating
+11719,Belgium,Loyal
+11720,USA,At-Risk
+11721,France,Loyal
+11722,United Kingdom,Potential
+11723,Australia,New
+11724,Belgium,At-Risk
+11725,United Kingdom,Hibernating
+11726,United Kingdom,Champions
+11727,United Kingdom,Potential
+11728,France,Hibernating
+11729,United Kingdom,Loyal
+11730,Germany,Potential
+11731,United Kingdom,At-Risk
+11732,United Kingdom,Loyal
+11733,United Kingdom,Loyal
+11734,United Kingdom,Hibernating
+11735,Japan,New
+11736,United Kingdom,Potential
+11737,United Kingdom,Champions
+11738,United Kingdom,Potential
+11739,USA,At-Risk
+11740,France,Champions
+11741,United Kingdom,Loyal
+11742,Belgium,Loyal
+11743,Germany,Loyal
+11744,United Kingdom,Champions
+11745,United Kingdom,New
+11746,France,New
+11747,United Kingdom,New
+11748,United Kingdom,Champions
+11749,Germany,Potential
+11750,United Kingdom,Champions
+11751,Japan,Hibernating
+11752,United Kingdom,Potential
+11753,United Kingdom,Potential
+11754,United Kingdom,Potential
+11755,Australia,At-Risk
+11756,United Kingdom,New
+11757,Germany,At-Risk
+11758,United Kingdom,Champions
+11759,United Kingdom,At-Risk
+11760,United Kingdom,Hibernating
+11761,France,At-Risk
+11762,United Kingdom,Potential
+11763,USA,At-Risk
+11764,USA,New
+11765,United Kingdom,Loyal
+11766,United Kingdom,New
+11767,United Kingdom,Loyal
+11768,Netherlands,Loyal
+11769,United Kingdom,Champions
+11770,France,Loyal
+11771,United Kingdom,Potential
+11772,France,Champions
+11773,United Kingdom,Potential
+11774,United Kingdom,Hibernating
+11775,France,Hibernating
+11776,USA,Potential
+11777,United Kingdom,Champions
+11778,United Kingdom,Champions
+11779,United Kingdom,New
+11780,United Kingdom,At-Risk
+11781,United Kingdom,Loyal
+11782,United Kingdom,Potential
+11783,France,At-Risk
+11784,United Kingdom,Champions
+11785,Spain,At-Risk
+11786,France,Potential
+11787,United Kingdom,Champions
+11788,Germany,Hibernating
+11789,United Kingdom,Champions
+11790,Belgium,New
+11791,United Kingdom,Loyal
+11792,Belgium,Hibernating
+11793,USA,At-Risk
+11794,Spain,At-Risk
+11795,United Kingdom,Hibernating
+11796,United Kingdom,Loyal
+11797,Spain,New
+11798,United Kingdom,Champions
+11799,United Kingdom,Champions
+11800,Japan,Hibernating
+11801,Spain,Loyal
+11802,USA,Hibernating
+11803,United Kingdom,Potential
+11804,United Kingdom,At-Risk
+11805,France,New
+11806,USA,At-Risk
+11807,United Kingdom,Champions
+11808,United Kingdom,Loyal
+11809,Australia,At-Risk
+11810,United Kingdom,Potential
+11811,United Kingdom,Potential
+11812,United Kingdom,Champions
+11813,United Kingdom,Loyal
+11814,Spain,Loyal
+11815,United Kingdom,New
+11816,USA,At-Risk
+11817,Australia,Champions
+11818,United Kingdom,At-Risk
+11819,United Kingdom,New
+11820,United Kingdom,New
+11821,United Kingdom,New
+11822,Spain,New
+11823,Belgium,Potential
+11824,Japan,Loyal
+11825,United Kingdom,Potential
+11826,Netherlands,Loyal
+11827,United Kingdom,Hibernating
+11828,United Kingdom,Hibernating
+11829,Spain,Loyal
+11830,France,At-Risk
+11831,France,Potential
+11832,Australia,Potential
+11833,USA,Loyal
+11834,United Kingdom,New
+11835,United Kingdom,New
+11836,United Kingdom,Champions
+11837,United Kingdom,At-Risk
+11838,United Kingdom,Potential
+11839,Germany,Potential
+11840,Germany,Hibernating
+11841,United Kingdom,Potential
+11842,Australia,Hibernating
+11843,Germany,Potential
+11844,France,New
+11845,Spain,Loyal
+11846,United Kingdom,Potential
+11847,Spain,New
+11848,United Kingdom,Hibernating
+11849,Japan,Hibernating
+11850,United Kingdom,Potential
+11851,Japan,Hibernating
+11852,Australia,New
+11853,Australia,Champions
+11854,Netherlands,At-Risk
+11855,United Kingdom,At-Risk
+11856,United Kingdom,Loyal
+11857,Germany,New
+11858,United Kingdom,Loyal
+11859,United Kingdom,New
+11860,Switzerland,New
+11861,United Kingdom,New
+11862,United Kingdom,Champions
+11863,USA,Potential
+11864,France,Champions
+11865,United Kingdom,Champions
+11866,Germany,Champions
+11867,Switzerland,Hibernating
+11868,USA,Potential
+11869,United Kingdom,Hibernating
+11870,Germany,Potential
+11871,Spain,At-Risk
+11872,United Kingdom,Champions
+11873,Switzerland,New
+11874,United Kingdom,Hibernating
+11875,France,Potential
+11876,France,Potential
+11877,United Kingdom,Champions
+11878,Netherlands,Loyal
+11879,United Kingdom,At-Risk
+11880,Switzerland,At-Risk
+11881,Germany,At-Risk
+11882,Spain,Champions
+11883,Japan,New
+11884,United Kingdom,Potential
+11885,Netherlands,New
+11886,United Kingdom,Hibernating
+11887,United Kingdom,Champions
+11888,Japan,New
+11889,United Kingdom,Loyal
+11890,Netherlands,Champions
+11891,Netherlands,Champions
+11892,Japan,Potential
+11893,France,New
+11894,United Kingdom,Hibernating
+11895,USA,Loyal
+11896,USA,Champions
+11897,Germany,Champions
+11898,Germany,New
+11899,Switzerland,New
+11900,Japan,Loyal
+11901,Spain,Loyal
+11902,Netherlands,Loyal
+11903,United Kingdom,Potential
+11904,France,At-Risk
+11905,Germany,New
+11906,United Kingdom,Hibernating
+11907,Japan,Loyal
+11908,United Kingdom,At-Risk
+11909,USA,New
+11910,Switzerland,Loyal
+11911,United Kingdom,Potential
+11912,Japan,Hibernating
+11913,United Kingdom,Potential
+11914,Germany,At-Risk
+11915,Netherlands,Hibernating
+11916,France,Loyal
+11917,United Kingdom,Potential
+11918,United Kingdom,At-Risk
+11919,Japan,Loyal
+11920,USA,Potential
+11921,USA,Loyal
+11922,Germany,Potential
+11923,France,Potential
+11924,United Kingdom,At-Risk
+11925,Germany,Hibernating
+11926,Germany,Potential
+11927,Netherlands,Potential
+11928,Netherlands,Hibernating
+11929,United Kingdom,New
+11930,Switzerland,Hibernating
+11931,United Kingdom,New
+11932,United Kingdom,Potential
+11933,United Kingdom,At-Risk
+11934,Netherlands,Loyal
+11935,USA,Potential
+11936,United Kingdom,Champions
+11937,Spain,At-Risk
+11938,United Kingdom,Hibernating
+11939,United Kingdom,New
+11940,United Kingdom,Potential
+11941,Netherlands,Loyal
+11942,Netherlands,Hibernating
+11943,United Kingdom,Hibernating
+11944,Belgium,Potential
+11945,United Kingdom,Potential
+11946,United Kingdom,New
+11947,United Kingdom,Potential
+11948,United Kingdom,Hibernating
+11949,United Kingdom,Potential
+11950,United Kingdom,Hibernating
+11951,Australia,New
+11952,Switzerland,Potential
+11953,Spain,Potential
+11954,United Kingdom,Hibernating
+11955,Germany,Hibernating
+11956,United Kingdom,Potential
+11957,USA,At-Risk
+11958,United Kingdom,Potential
+11959,United Kingdom,Loyal
+11960,Netherlands,Champions
+11961,United Kingdom,New
+11962,United Kingdom,At-Risk
+11963,United Kingdom,Hibernating
+11964,Australia,Champions
+11965,United Kingdom,Potential
+11966,Japan,Champions
+11967,United Kingdom,At-Risk
+11968,France,Potential
+11969,France,Potential
+11970,United Kingdom,Hibernating
+11971,Germany,Champions
+11972,Belgium,At-Risk
+11973,Germany,Loyal
+11974,Germany,Hibernating
+11975,United Kingdom,Hibernating
+11976,Germany,Champions
+11977,United Kingdom,Loyal
+11978,Spain,At-Risk
+11979,United Kingdom,Loyal
+11980,USA,Hibernating
+11981,Germany,Hibernating
+11982,Switzerland,Potential
+11983,United Kingdom,Potential
+11984,United Kingdom,Loyal
+11985,Japan,Hibernating
+11986,Japan,Loyal
+11987,USA,Potential
+11988,Japan,New
+11989,Japan,Champions
+11990,United Kingdom,Hibernating
+11991,Netherlands,Champions
+11992,Japan,At-Risk
+11993,Germany,Hibernating
+11994,United Kingdom,Champions
+11995,United Kingdom,Potential
+11996,United Kingdom,Hibernating
+11997,United Kingdom,Champions
+11998,United Kingdom,Hibernating
+11999,Germany,Potential
+12000,United Kingdom,Potential
+12001,France,Loyal
+12002,Australia,New
+12003,Switzerland,Loyal
+12004,Germany,Potential
+12005,Australia,Potential
+12006,Belgium,Potential
+12007,Switzerland,Champions
+12008,Netherlands,Loyal
+12009,United Kingdom,Potential
+12010,United Kingdom,Champions
+12011,United Kingdom,Loyal
+12012,Belgium,Hibernating
+12013,United Kingdom,Loyal
+12014,Japan,New
+12015,United Kingdom,Potential
+12016,United Kingdom,At-Risk
+12017,United Kingdom,Potential
+12018,United Kingdom,Champions
+12019,France,Hibernating
+12020,United Kingdom,Potential
+12021,France,Potential
+12022,Australia,At-Risk
+12023,Japan,Champions
+12024,United Kingdom,Potential
+12025,United Kingdom,Champions
+12026,United Kingdom,New
+12027,United Kingdom,Potential
+12028,United Kingdom,Loyal
+12029,Germany,Loyal
+12030,Netherlands,Hibernating
+12031,United Kingdom,Potential
+12032,United Kingdom,Potential
+12033,Japan,Potential
+12034,France,Champions
+12035,Germany,Hibernating
+12036,United Kingdom,Champions
+12037,United Kingdom,Hibernating
+12038,United Kingdom,Hibernating
+12039,USA,At-Risk
+12040,United Kingdom,Potential
+12041,Japan,At-Risk
+12042,United Kingdom,Potential
+12043,Australia,Loyal
+12044,United Kingdom,Loyal
+12045,France,At-Risk
+12046,United Kingdom,Loyal
+12047,Spain,Hibernating
+12048,Australia,Hibernating
+12049,United Kingdom,Hibernating
+12050,United Kingdom,Potential
+12051,United Kingdom,Champions
+12052,United Kingdom,Hibernating
+12053,United Kingdom,At-Risk
+12054,United Kingdom,Potential
+12055,France,Champions
+12056,United Kingdom,Champions
+12057,Japan,At-Risk
+12058,United Kingdom,At-Risk
+12059,France,At-Risk
+12060,Spain,Loyal
+12061,Germany,At-Risk
+12062,Switzerland,New
+12063,United Kingdom,At-Risk
+12064,United Kingdom,Loyal
+12065,Netherlands,Potential
+12066,United Kingdom,At-Risk
+12067,United Kingdom,Potential
+12068,United Kingdom,New
+12069,United Kingdom,At-Risk
+12070,Belgium,New
+12071,Germany,Loyal
+12072,France,Champions
+12073,Australia,Loyal
+12074,Japan,Loyal
+12075,United Kingdom,Potential
+12076,United Kingdom,Champions
+12077,Japan,Hibernating
+12078,France,Hibernating
+12079,Germany,Hibernating
+12080,United Kingdom,Champions
+12081,Germany,Hibernating
+12082,Japan,Hibernating
+12083,United Kingdom,Loyal
+12084,United Kingdom,Loyal
+12085,Japan,Hibernating
+12086,Netherlands,At-Risk
+12087,United Kingdom,Hibernating
+12088,Germany,New
+12089,United Kingdom,Champions
+12090,Spain,Hibernating
+12091,Spain,Hibernating
+12092,United Kingdom,Loyal
+12093,United Kingdom,Hibernating
+12094,France,Loyal
+12095,Netherlands,New
+12096,Japan,Champions
+12097,United Kingdom,New
+12098,United Kingdom,At-Risk
+12099,United Kingdom,Champions
+12100,Spain,Hibernating
+12101,Japan,At-Risk
+12102,United Kingdom,New
+12103,Japan,Champions
+12104,USA,At-Risk
+12105,United Kingdom,Hibernating
+12106,France,At-Risk
+12107,Switzerland,At-Risk
+12108,Germany,Hibernating
+12109,United Kingdom,Potential
+12110,United Kingdom,Hibernating
+12111,France,Champions
+12112,Germany,New
+12113,USA,Loyal
+12114,Germany,At-Risk
+12115,Switzerland,At-Risk
+12116,United Kingdom,New
+12117,Japan,Champions
+12118,Germany,Loyal
+12119,United Kingdom,Loyal
+12120,United Kingdom,Potential
+12121,United Kingdom,Loyal
+12122,United Kingdom,At-Risk
+12123,France,Champions
+12124,Spain,New
+12125,Switzerland,Potential
+12126,United Kingdom,Potential
+12127,United Kingdom,Loyal
+12128,France,Potential
+12129,Switzerland,Champions
+12130,United Kingdom,Loyal
+12131,Germany,Loyal
+12132,United Kingdom,Hibernating
+12133,United Kingdom,Hibernating
+12134,United Kingdom,Loyal
+12135,United Kingdom,Loyal
+12136,Germany,New
+12137,France,Hibernating
+12138,France,Potential
+12139,Netherlands,At-Risk
+12140,USA,Loyal
+12141,United Kingdom,New
+12142,Australia,Loyal
+12143,United Kingdom,New
+12144,France,Hibernating
+12145,Switzerland,Loyal
+12146,France,Hibernating
+12147,United Kingdom,Potential
+12148,Spain,New
+12149,France,Champions
+12150,United Kingdom,New
+12151,United Kingdom,Champions
+12152,United Kingdom,Hibernating
+12153,Spain,Loyal
+12154,France,Loyal
+12155,United Kingdom,Hibernating
+12156,France,Hibernating
+12157,Germany,Champions
+12158,United Kingdom,Potential
+12159,United Kingdom,Hibernating
+12160,Germany,Champions
+12161,Japan,Potential
+12162,France,Hibernating
+12163,United Kingdom,Champions
+12164,Spain,New
+12165,United Kingdom,New
+12166,Belgium,New
+12167,United Kingdom,Potential
+12168,Japan,Potential
+12169,Germany,New
+12170,United Kingdom,New
+12171,Belgium,Champions
+12172,United Kingdom,Hibernating
+12173,United Kingdom,Loyal
+12174,United Kingdom,Potential
+12175,Belgium,Hibernating
+12176,Germany,Hibernating
+12177,United Kingdom,Potential
+12178,United Kingdom,At-Risk
+12179,United Kingdom,Champions
+12180,United Kingdom,Potential
+12181,France,At-Risk
+12182,Australia,New
+12183,Germany,Hibernating
+12184,United Kingdom,Potential
+12185,United Kingdom,Loyal
+12186,United Kingdom,Hibernating
+12187,United Kingdom,At-Risk
+12188,Germany,New
+12189,United Kingdom,At-Risk
+12190,Germany,Potential
+12191,United Kingdom,Loyal
+12192,Australia,Potential
+12193,United Kingdom,Loyal
+12194,United Kingdom,Potential
+12195,USA,Champions
+12196,United Kingdom,New
+12197,Belgium,Hibernating
+12198,France,Potential
+12199,Spain,Loyal
+12200,United Kingdom,Potential
+12201,United Kingdom,Champions
+12202,Switzerland,New
+12203,Japan,New
+12204,United Kingdom,At-Risk
+12205,United Kingdom,Champions
+12206,France,Potential
+12207,United Kingdom,New
+12208,France,Hibernating
+12209,United Kingdom,Hibernating
+12210,United Kingdom,Loyal
+12211,France,New
+12212,United Kingdom,Potential
+12213,Japan,Hibernating
+12214,United Kingdom,Champions
+12215,Belgium,Hibernating
+12216,Germany,Loyal
+12217,France,Potential
+12218,United Kingdom,Loyal
+12219,France,Loyal
+12220,United Kingdom,At-Risk
+12221,Belgium,At-Risk
+12222,Spain,New
+12223,France,Hibernating
+12224,United Kingdom,Potential
+12225,United Kingdom,Champions
+12226,Germany,Potential
+12227,Switzerland,Hibernating
+12228,United Kingdom,At-Risk
+12229,United Kingdom,Loyal
+12230,United Kingdom,New
+12231,Germany,At-Risk
+12232,United Kingdom,Hibernating
+12233,United Kingdom,Champions
+12234,Germany,At-Risk
+12235,USA,Hibernating
+12236,USA,Hibernating
+12237,Switzerland,Hibernating
+12238,United Kingdom,New
+12239,USA,Hibernating
+12240,United Kingdom,Loyal
+12241,Netherlands,New
+12242,Spain,Hibernating
+12243,Australia,New
+12244,United Kingdom,Champions
+12245,United Kingdom,Loyal
+12246,Spain,Loyal
+12247,Switzerland,New
+12248,USA,Hibernating
+12249,Germany,Potential
+12250,Switzerland,Loyal
+12251,United Kingdom,New
+12252,Spain,At-Risk
+12253,United Kingdom,Loyal
+12254,United Kingdom,At-Risk
+12255,United Kingdom,Hibernating
+12256,United Kingdom,Potential
+12257,Spain,Loyal
+12258,United Kingdom,Loyal
+12259,United Kingdom,Loyal
+12260,Australia,Loyal
+12261,United Kingdom,Loyal
+12262,Switzerland,At-Risk
+12263,United Kingdom,Champions
+12264,United Kingdom,Champions
+12265,Spain,Potential
+12266,United Kingdom,Champions
+12267,Belgium,Hibernating
+12268,USA,New
+12269,United Kingdom,At-Risk
+12270,United Kingdom,Hibernating
+12271,Australia,New
+12272,United Kingdom,Hibernating
+12273,United Kingdom,Loyal
+12274,Netherlands,Loyal
+12275,United Kingdom,New
+12276,United Kingdom,Hibernating
+12277,United Kingdom,At-Risk
+12278,United Kingdom,Potential
+12279,Belgium,New
+12280,USA,Potential
+12281,Germany,At-Risk
+12282,Spain,Champions
+12283,Spain,New
+12284,France,At-Risk
+12285,United Kingdom,At-Risk
+12286,United Kingdom,At-Risk
+12287,United Kingdom,New
+12288,USA,At-Risk
+12289,United Kingdom,New
+12290,United Kingdom,New
+12291,Spain,At-Risk
+12292,United Kingdom,New
+12293,United Kingdom,Loyal
+12294,Germany,Hibernating
+12295,Spain,Champions
+12296,Netherlands,Loyal
+12297,Germany,New
+12298,United Kingdom,Potential
+12299,United Kingdom,Champions
+12300,United Kingdom,New
+12301,United Kingdom,Potential
+12302,Germany,Potential
+12303,United Kingdom,New
+12304,United Kingdom,Hibernating
+12305,Australia,Champions
+12306,United Kingdom,Potential
+12307,United Kingdom,Loyal
+12308,Switzerland,New
+12309,Switzerland,Champions
+12310,United Kingdom,At-Risk
+12311,United Kingdom,At-Risk
+12312,Germany,At-Risk
+12313,United Kingdom,New
+12314,United Kingdom,Potential
+12315,USA,Loyal
+12316,Germany,Potential
+12317,France,Loyal
+12318,USA,At-Risk
+12319,United Kingdom,Potential
+12320,Germany,Potential
+12321,United Kingdom,Champions
+12322,United Kingdom,At-Risk
+12323,United Kingdom,Loyal
+12324,Australia,Potential
+12325,Switzerland,At-Risk
+12326,United Kingdom,Hibernating
+12327,Germany,Champions
+12328,United Kingdom,At-Risk
+12329,United Kingdom,At-Risk
+12330,France,Potential
+12331,United Kingdom,Potential
+12332,United Kingdom,New
+12333,Belgium,At-Risk
+12334,Netherlands,Hibernating
+12335,USA,New
+12336,United Kingdom,Champions
+12337,United Kingdom,Loyal
+12338,Spain,Potential
+12339,Spain,Champions
+12340,United Kingdom,New
+12341,United Kingdom,Champions
+12342,Japan,New
+12343,Germany,Champions
+12344,Belgium,Hibernating
+12345,Belgium,Champions
+12346,United Kingdom,Hibernating
+12347,United Kingdom,Potential
+12348,Japan,New
+12349,United Kingdom,Loyal
+12350,Netherlands,New
+12351,France,Loyal
+12352,Germany,Loyal
+12353,United Kingdom,Potential
+12354,United Kingdom,At-Risk
+12355,Australia,New
+12356,USA,Hibernating
+12357,Japan,Hibernating
+12358,United Kingdom,Potential
+12359,Germany,Hibernating
+12360,France,Potential
+12361,Netherlands,Hibernating
+12362,United Kingdom,Potential
+12363,France,At-Risk
+12364,Japan,New
+12365,Germany,Champions
+12366,United Kingdom,At-Risk
+12367,United Kingdom,Loyal
+12368,United Kingdom,Champions
+12369,Germany,Loyal
+12370,United Kingdom,New
+12371,Germany,Potential
+12372,Japan,New
+12373,United Kingdom,New
+12374,Belgium,Hibernating
+12375,United Kingdom,Champions
+12376,Germany,Loyal
+12377,United Kingdom,Hibernating
+12378,United Kingdom,Loyal
+12379,United Kingdom,Potential
+12380,France,New
+12381,United Kingdom,Champions
+12382,United Kingdom,Loyal
+12383,Germany,Hibernating
+12384,Switzerland,Potential
+12385,United Kingdom,Potential
+12386,Netherlands,At-Risk
+12387,United Kingdom,Champions
+12388,United Kingdom,At-Risk
+12389,United Kingdom,New
+12390,France,At-Risk
+12391,Spain,New
+12392,United Kingdom,Champions
+12393,United Kingdom,Hibernating
+12394,United Kingdom,Champions
+12395,United Kingdom,Loyal
+12396,Netherlands,Potential
+12397,United Kingdom,Champions
+12398,United Kingdom,New
+12399,United Kingdom,New
+12400,United Kingdom,New
+12401,USA,New
+12402,Spain,Champions
+12403,United Kingdom,Loyal
+12404,United Kingdom,New
+12405,United Kingdom,New
+12406,United Kingdom,At-Risk
+12407,Switzerland,Champions
+12408,United Kingdom,Potential
+12409,United Kingdom,New
+12410,United Kingdom,Champions
+12411,United Kingdom,Potential
+12412,Belgium,Hibernating
+12413,Spain,Loyal
+12414,United Kingdom,Potential
+12415,USA,At-Risk
+12416,United Kingdom,Potential
+12417,United Kingdom,Hibernating
+12418,Germany,At-Risk
+12419,United Kingdom,At-Risk
+12420,United Kingdom,Champions
+12421,Australia,Loyal
+12422,USA,Loyal
+12423,France,At-Risk
+12424,United Kingdom,At-Risk
+12425,France,New
+12426,Belgium,Champions
+12427,USA,Hibernating
+12428,Belgium,New
+12429,Spain,Loyal
+12430,United Kingdom,Champions
+12431,United Kingdom,New
+12432,United Kingdom,Hibernating
+12433,United Kingdom,Potential
+12434,United Kingdom,At-Risk
+12435,France,Potential
+12436,Germany,Champions
+12437,United Kingdom,Loyal
+12438,United Kingdom,Hibernating
+12439,Belgium,At-Risk
+12440,Switzerland,New
+12441,Netherlands,Champions
+12442,Spain,At-Risk
+12443,Netherlands,At-Risk
+12444,Japan,New
+12445,Spain,Hibernating
+12446,United Kingdom,Potential
+12447,United Kingdom,Hibernating
+12448,United Kingdom,At-Risk
+12449,United Kingdom,New
+12450,United Kingdom,Hibernating
+12451,Japan,Hibernating
+12452,United Kingdom,Hibernating
+12453,United Kingdom,At-Risk
+12454,Switzerland,Hibernating
+12455,United Kingdom,Champions
+12456,Belgium,Hibernating
+12457,United Kingdom,Loyal
+12458,Japan,Hibernating
+12459,Australia,Hibernating
+12460,United Kingdom,Potential
+12461,United Kingdom,Hibernating
+12462,Switzerland,Loyal
+12463,Germany,New
+12464,Belgium,Loyal
+12465,France,At-Risk
+12466,United Kingdom,At-Risk
+12467,United Kingdom,Hibernating
+12468,France,Champions
+12469,Switzerland,Loyal
+12470,United Kingdom,Champions
+12471,United Kingdom,New
+12472,United Kingdom,Champions
+12473,Germany,New
+12474,France,Hibernating
+12475,France,Hibernating
+12476,United Kingdom,At-Risk
+12477,United Kingdom,Potential
+12478,United Kingdom,Loyal
+12479,France,Champions
+12480,United Kingdom,Potential
+12481,United Kingdom,Hibernating
+12482,Netherlands,New
+12483,Switzerland,Potential
+12484,United Kingdom,Hibernating
+12485,United Kingdom,Champions
+12486,Netherlands,At-Risk
+12487,United Kingdom,Loyal
+12488,USA,Champions
+12489,United Kingdom,Loyal
+12490,Germany,Loyal
+12491,United Kingdom,Potential
+12492,United Kingdom,Potential
+12493,USA,Hibernating
+12494,Netherlands,New
+12495,Netherlands,Potential
+12496,Germany,Potential
+12497,United Kingdom,Potential
+12498,United Kingdom,Champions
+12499,United Kingdom,Loyal
+12500,Germany,Hibernating
+12501,United Kingdom,Loyal
+12502,Germany,Hibernating
+12503,United Kingdom,At-Risk
+12504,Japan,Hibernating
+12505,USA,At-Risk
+12506,Australia,New
+12507,Belgium,New
+12508,Switzerland,At-Risk
+12509,France,Hibernating
+12510,Germany,New
+12511,Belgium,Potential
+12512,United Kingdom,New
+12513,United Kingdom,New
+12514,United Kingdom,Champions
+12515,USA,Hibernating
+12516,United Kingdom,Loyal
+12517,USA,At-Risk
+12518,United Kingdom,Loyal
+12519,United Kingdom,At-Risk
+12520,United Kingdom,Potential
+12521,Switzerland,Hibernating
+12522,Germany,Hibernating
+12523,Japan,Loyal
+12524,United Kingdom,New
+12525,United Kingdom,Loyal
+12526,United Kingdom,Hibernating
+12527,United Kingdom,At-Risk
+12528,Switzerland,Champions
+12529,Germany,Hibernating
+12530,Japan,Potential
+12531,United Kingdom,At-Risk
+12532,Belgium,Loyal
+12533,United Kingdom,Potential
+12534,Spain,Champions
+12535,France,At-Risk
+12536,United Kingdom,Hibernating
+12537,United Kingdom,Champions
+12538,Japan,At-Risk
+12539,United Kingdom,New
+12540,United Kingdom,Champions
+12541,Australia,Loyal
+12542,Netherlands,Hibernating
+12543,Japan,Potential
+12544,Belgium,New
+12545,United Kingdom,Hibernating
+12546,United Kingdom,Hibernating
+12547,Germany,At-Risk
+12548,Germany,Loyal
+12549,United Kingdom,Potential
+12550,Netherlands,New
+12551,USA,Hibernating
+12552,Germany,Champions
+12553,United Kingdom,At-Risk
+12554,Belgium,Loyal
+12555,United Kingdom,Champions
+12556,United Kingdom,Potential
+12557,United Kingdom,New
+12558,United Kingdom,New
+12559,Germany,Potential
+12560,United Kingdom,Loyal
+12561,United Kingdom,Loyal
+12562,United Kingdom,Potential
+12563,Germany,Hibernating
+12564,France,Potential
+12565,Germany,Loyal
+12566,United Kingdom,New
+12567,United Kingdom,Hibernating
+12568,United Kingdom,Potential
+12569,United Kingdom,At-Risk
+12570,United Kingdom,At-Risk
+12571,United Kingdom,Potential
+12572,United Kingdom,At-Risk
+12573,United Kingdom,At-Risk
+12574,France,New
+12575,France,New
+12576,United Kingdom,Loyal
+12577,United Kingdom,At-Risk
+12578,United Kingdom,Potential
+12579,Australia,Champions
+12580,Netherlands,Loyal
+12581,USA,Loyal
+12582,Australia,At-Risk
+12583,United Kingdom,Potential
+12584,Switzerland,At-Risk
+12585,United Kingdom,Champions
+12586,United Kingdom,Potential
+12587,Germany,Loyal
+12588,Germany,At-Risk
+12589,Germany,Hibernating
+12590,Netherlands,Loyal
+12591,Spain,Potential
+12592,United Kingdom,Hibernating
+12593,Japan,Hibernating
+12594,United Kingdom,Loyal
+12595,United Kingdom,Loyal
+12596,Belgium,Hibernating
+12597,United Kingdom,New
+12598,France,Champions
+12599,United Kingdom,Potential
+12600,United Kingdom,Potential
+12601,United Kingdom,Champions
+12602,United Kingdom,Potential
+12603,United Kingdom,New
+12604,Germany,Potential
+12605,United Kingdom,At-Risk
+12606,United Kingdom,Hibernating
+12607,Germany,Loyal
+12608,United Kingdom,New
+12609,Germany,Potential
+12610,United Kingdom,Loyal
+12611,Japan,At-Risk
+12612,United Kingdom,New
+12613,Netherlands,Champions
+12614,United Kingdom,At-Risk
+12615,United Kingdom,At-Risk
+12616,United Kingdom,Hibernating
+12617,United Kingdom,Champions
+12618,France,New
+12619,Japan,Champions
+12620,USA,At-Risk
+12621,United Kingdom,At-Risk
+12622,Japan,Potential
+12623,United Kingdom,Potential
+12624,United Kingdom,Potential
+12625,France,Potential
+12626,Spain,New
+12627,United Kingdom,Loyal
+12628,United Kingdom,At-Risk
+12629,Japan,At-Risk
+12630,United Kingdom,Loyal
+12631,United Kingdom,Loyal
+12632,France,Potential
+12633,Switzerland,Loyal
+12634,United Kingdom,Potential
+12635,Japan,Loyal
+12636,United Kingdom,Loyal
+12637,France,Hibernating
+12638,Japan,At-Risk
+12639,United Kingdom,Hibernating
+12640,USA,Champions
+12641,United Kingdom,Loyal
+12642,Netherlands,At-Risk
+12643,Japan,New
+12644,USA,At-Risk
+12645,United Kingdom,Potential
+12646,Japan,At-Risk
+12647,United Kingdom,Loyal
+12648,United Kingdom,Loyal
+12649,United Kingdom,Hibernating
+12650,France,Hibernating
+12651,Germany,Loyal
+12652,France,Loyal
+12653,Spain,At-Risk
+12654,United Kingdom,New
+12655,United Kingdom,Hibernating
+12656,United Kingdom,Potential
+12657,United Kingdom,New
+12658,United Kingdom,Loyal
+12659,United Kingdom,Loyal
+12660,United Kingdom,Champions
+12661,Japan,New
+12662,United Kingdom,Potential
+12663,USA,Loyal
+12664,United Kingdom,New
+12665,Australia,New
+12666,Spain,New
+12667,Japan,New
+12668,United Kingdom,Champions
+12669,France,New
+12670,Netherlands,New
+12671,France,Potential
+12672,Germany,Hibernating
+12673,Germany,Potential
+12674,Belgium,Hibernating
+12675,United Kingdom,New
+12676,Switzerland,Champions
+12677,Australia,Loyal
+12678,Germany,New
+12679,USA,Champions
+12680,Germany,Hibernating
+12681,Belgium,Champions
+12682,United Kingdom,New
+12683,United Kingdom,At-Risk
+12684,Belgium,At-Risk
+12685,United Kingdom,New
+12686,United Kingdom,Champions
+12687,Spain,Loyal
+12688,United Kingdom,Potential
+12689,United Kingdom,Potential
+12690,Germany,Loyal
+12691,Belgium,Potential
+12692,Germany,New
+12693,United Kingdom,New
+12694,United Kingdom,New
+12695,France,Potential
+12696,Japan,New
+12697,United Kingdom,At-Risk
+12698,Spain,Potential
+12699,Belgium,Potential
+12700,Netherlands,Champions
+12701,United Kingdom,New
+12702,France,Champions
+12703,Germany,New
+12704,Netherlands,Hibernating
+12705,France,Loyal
+12706,United Kingdom,New
+12707,United Kingdom,Loyal
+12708,Japan,Hibernating
+12709,Australia,Loyal
+12710,United Kingdom,Loyal
+12711,United Kingdom,Potential
+12712,United Kingdom,At-Risk
+12713,United Kingdom,New
+12714,United Kingdom,Loyal
+12715,United Kingdom,Loyal
+12716,USA,Champions
+12717,France,At-Risk
+12718,United Kingdom,New
+12719,Australia,Hibernating
+12720,Switzerland,Hibernating
+12721,Japan,Loyal
+12722,United Kingdom,Potential
+12723,United Kingdom,New
+12724,United Kingdom,Hibernating
+12725,France,Loyal
+12726,Japan,At-Risk
+12727,France,Hibernating
+12728,Switzerland,Loyal
+12729,United Kingdom,Loyal
+12730,United Kingdom,At-Risk
+12731,United Kingdom,Champions
+12732,Spain,Hibernating
+12733,United Kingdom,Champions
+12734,United Kingdom,New
+12735,USA,Loyal
+12736,Spain,Hibernating
+12737,Spain,Potential
+12738,France,Hibernating
+12739,United Kingdom,New
+12740,Netherlands,At-Risk
+12741,Japan,Champions
+12742,Belgium,At-Risk
+12743,United Kingdom,New
+12744,Switzerland,New
+12745,Australia,Champions
+12746,United Kingdom,Loyal
+12747,United Kingdom,At-Risk
+12748,United Kingdom,New
+12749,Germany,Potential
+12750,United Kingdom,Champions
+12751,United Kingdom,Potential
+12752,USA,Hibernating
+12753,USA,New
+12754,Netherlands,Hibernating
+12755,Japan,Potential
+12756,United Kingdom,Hibernating
+12757,Australia,At-Risk
+12758,Germany,Hibernating
+12759,United Kingdom,Loyal
+12760,France,New
+12761,Germany,Potential
+12762,United Kingdom,Loyal
+12763,Japan,Loyal
+12764,Spain,Loyal
+12765,United Kingdom,Champions
+12766,United Kingdom,Champions
+12767,Netherlands,Loyal
+12768,Belgium,New
+12769,United Kingdom,At-Risk
+12770,United Kingdom,Potential
+12771,United Kingdom,Potential
+12772,United Kingdom,At-Risk
+12773,United Kingdom,Champions
+12774,United Kingdom,Hibernating
+12775,Germany,Champions
+12776,United Kingdom,At-Risk
+12777,United Kingdom,Potential
+12778,Germany,Champions
+12779,Switzerland,Loyal
+12780,United Kingdom,At-Risk
+12781,Japan,New
+12782,Japan,Champions
+12783,France,New
+12784,United Kingdom,New
+12785,Japan,Hibernating
+12786,Japan,New
+12787,Belgium,New
+12788,Japan,Champions
+12789,Switzerland,At-Risk
+12790,Germany,Potential
+12791,United Kingdom,Hibernating
+12792,United Kingdom,Hibernating
+12793,Spain,At-Risk
+12794,United Kingdom,Loyal
+12795,United Kingdom,Champions
+12796,United Kingdom,New
+12797,France,Loyal
+12798,Germany,New
+12799,United Kingdom,Champions
+12800,Australia,At-Risk
+12801,Spain,At-Risk
+12802,Spain,At-Risk
+12803,United Kingdom,New
+12804,Australia,At-Risk
+12805,United Kingdom,At-Risk
+12806,United Kingdom,At-Risk
+12807,United Kingdom,At-Risk
+12808,Belgium,Loyal
+12809,Japan,New
+12810,Germany,New
+12811,Japan,Loyal
+12812,United Kingdom,New
+12813,Netherlands,Hibernating
+12814,United Kingdom,At-Risk
+12815,United Kingdom,Champions
+12816,Switzerland,Hibernating
+12817,Spain,Loyal
+12818,United Kingdom,Champions
+12819,United Kingdom,Potential
+12820,Australia,Champions
+12821,United Kingdom,Champions
+12822,Spain,Hibernating
+12823,Australia,At-Risk
+12824,United Kingdom,Champions
+12825,United Kingdom,Potential
+12826,Netherlands,Champions
+12827,Germany,At-Risk
+12828,France,Loyal
+12829,United Kingdom,Loyal
+12830,United Kingdom,Hibernating
+12831,United Kingdom,New
+12832,Spain,At-Risk
+12833,United Kingdom,At-Risk
+12834,United Kingdom,Hibernating
+12835,Germany,Champions
+12836,United Kingdom,At-Risk
+12837,Germany,At-Risk
+12838,United Kingdom,Potential
+12839,Switzerland,Hibernating
+12840,United Kingdom,Champions
+12841,United Kingdom,At-Risk
+12842,Germany,Champions
+12843,United Kingdom,New
+12844,Japan,Champions
+12845,United Kingdom,Champions
+12846,United Kingdom,New
+12847,United Kingdom,Hibernating
+12848,Japan,Potential
+12849,Switzerland,Potential
+12850,United Kingdom,At-Risk
+12851,United Kingdom,Loyal
+12852,Netherlands,Potential
+12853,Switzerland,Champions
+12854,USA,New
+12855,Germany,Champions
+12856,Switzerland,Potential
+12857,United Kingdom,New
+12858,United Kingdom,Potential
+12859,Netherlands,New
+12860,United Kingdom,Loyal
+12861,United Kingdom,Hibernating
+12862,United Kingdom,At-Risk
+12863,United Kingdom,Potential
+12864,Japan,At-Risk
+12865,Belgium,At-Risk
+12866,United Kingdom,Champions
+12867,United Kingdom,Champions
+12868,United Kingdom,New
+12869,Australia,At-Risk
+12870,Belgium,Hibernating
+12871,Germany,Hibernating
+12872,United Kingdom,Potential
+12873,Belgium,At-Risk
+12874,Germany,Champions
+12875,Belgium,Hibernating
+12876,United Kingdom,Hibernating
+12877,United Kingdom,Hibernating
+12878,United Kingdom,Loyal
+12879,USA,New
+12880,United Kingdom,Loyal
+12881,Switzerland,Hibernating
+12882,United Kingdom,New
+12883,Germany,At-Risk
+12884,Germany,Loyal
+12885,United Kingdom,Potential
+12886,United Kingdom,Potential
+12887,Germany,New
+12888,United Kingdom,Hibernating
+12889,United Kingdom,Hibernating
+12890,United Kingdom,New
+12891,United Kingdom,New
+12892,United Kingdom,Champions
+12893,Spain,Hibernating
+12894,Belgium,New
+12895,United Kingdom,Potential
+12896,Spain,Champions
+12897,United Kingdom,Loyal
+12898,Japan,Potential
+12899,Switzerland,Loyal
+12900,Spain,New
+12901,Germany,New
+12902,France,New
+12903,United Kingdom,Potential
+12904,Australia,At-Risk
+12905,Germany,Potential
+12906,United Kingdom,New
+12907,Netherlands,At-Risk
+12908,USA,Hibernating
+12909,United Kingdom,Hibernating
+12910,United Kingdom,Loyal
+12911,Australia,Champions
+12912,United Kingdom,Hibernating
+12913,USA,Champions
+12914,Spain,At-Risk
+12915,United Kingdom,At-Risk
+12916,Australia,Loyal
+12917,United Kingdom,Hibernating
+12918,United Kingdom,At-Risk
+12919,Netherlands,New
+12920,United Kingdom,Hibernating
+12921,United Kingdom,Loyal
+12922,United Kingdom,Loyal
+12923,Germany,At-Risk
+12924,Switzerland,Loyal
+12925,United Kingdom,Potential
+12926,United Kingdom,Champions
+12927,United Kingdom,Champions
+12928,United Kingdom,New
+12929,France,Loyal
+12930,United Kingdom,Potential
+12931,Switzerland,New
+12932,Japan,Potential
+12933,France,New
+12934,France,New
+12935,Germany,Hibernating
+12936,Switzerland,New
+12937,United Kingdom,Loyal
+12938,United Kingdom,Champions
+12939,Germany,Potential
+12940,United Kingdom,Hibernating
+12941,United Kingdom,Hibernating
+12942,Germany,Champions
+12943,USA,Hibernating
+12944,United Kingdom,At-Risk
+12945,United Kingdom,New
+12946,USA,Champions
+12947,United Kingdom,Potential
+12948,Germany,At-Risk
+12949,United Kingdom,Champions
+12950,Germany,Hibernating
+12951,United Kingdom,New
+12952,France,Potential
+12953,USA,Champions
+12954,Spain,Hibernating
+12955,Belgium,At-Risk
+12956,France,At-Risk
+12957,Germany,Champions
+12958,United Kingdom,Hibernating
+12959,Japan,Hibernating
+12960,Netherlands,New
+12961,United Kingdom,At-Risk
+12962,United Kingdom,Champions
+12963,Spain,Hibernating
+12964,Netherlands,Potential
+12965,Belgium,At-Risk
+12966,United Kingdom,New
+12967,Germany,Hibernating
+12968,United Kingdom,At-Risk
+12969,Switzerland,Hibernating
+12970,United Kingdom,New
+12971,United Kingdom,Hibernating
+12972,United Kingdom,At-Risk
+12973,United Kingdom,Hibernating
+12974,United Kingdom,At-Risk
+12975,United Kingdom,Champions
+12976,France,Hibernating
+12977,Netherlands,Potential
+12978,United Kingdom,Loyal
+12979,United Kingdom,Potential
+12980,United Kingdom,Loyal
+12981,Belgium,Champions
+12982,United Kingdom,Champions
+12983,USA,Hibernating
+12984,Japan,Loyal
+12985,Switzerland,New
+12986,Belgium,Loyal
+12987,Spain,Potential
+12988,France,Loyal
+12989,Germany,At-Risk
+12990,United Kingdom,At-Risk
+12991,Netherlands,Champions
+12992,United Kingdom,New
+12993,United Kingdom,At-Risk
+12994,United Kingdom,Hibernating
+12995,United Kingdom,Potential
+12996,Spain,New
+12997,United Kingdom,Hibernating
+12998,Australia,Champions
+12999,United Kingdom,New
+13000,United Kingdom,At-Risk
+13001,USA,Potential
+13002,USA,Champions
+13003,Japan,Potential
+13004,United Kingdom,New
+13005,France,Potential
+13006,Australia,At-Risk
+13007,United Kingdom,Champions
+13008,United Kingdom,Hibernating
+13009,United Kingdom,Potential
+13010,Netherlands,Potential
+13011,Spain,Loyal
+13012,Germany,Potential
+13013,Spain,Loyal
+13014,United Kingdom,Champions
+13015,Spain,Champions
+13016,United Kingdom,Champions
+13017,Germany,Potential
+13018,United Kingdom,Loyal
+13019,Netherlands,At-Risk
+13020,United Kingdom,Champions
+13021,France,Champions
+13022,Japan,Potential
+13023,Japan,Loyal
+13024,USA,Potential
+13025,United Kingdom,Champions
+13026,United Kingdom,Hibernating
+13027,United Kingdom,Potential
+13028,Belgium,Potential
+13029,Germany,Loyal
+13030,Japan,Potential
+13031,United Kingdom,At-Risk
+13032,United Kingdom,Champions
+13033,France,At-Risk
+13034,Belgium,Potential
+13035,Japan,At-Risk
+13036,United Kingdom,Champions
+13037,United Kingdom,Champions
+13038,United Kingdom,At-Risk
+13039,USA,At-Risk
+13040,USA,At-Risk
+13041,United Kingdom,Champions
+13042,United Kingdom,Loyal
+13043,France,Loyal
+13044,France,Champions
+13045,United Kingdom,New
+13046,United Kingdom,Potential
+13047,United Kingdom,New
+13048,Netherlands,Champions
+13049,United Kingdom,Champions
+13050,Germany,At-Risk
+13051,Belgium,Champions
+13052,Japan,Loyal
+13053,France,Champions
+13054,Japan,Potential
+13055,United Kingdom,Loyal
+13056,Spain,New
+13057,Germany,Hibernating
+13058,Spain,New
+13059,United Kingdom,New
+13060,Australia,Champions
+13061,Germany,Champions
+13062,United Kingdom,Potential
+13063,Switzerland,New
+13064,United Kingdom,Hibernating
+13065,Japan,At-Risk
+13066,United Kingdom,At-Risk
+13067,United Kingdom,Potential
+13068,USA,Potential
+13069,United Kingdom,Hibernating
+13070,Australia,At-Risk
+13071,United Kingdom,New
+13072,Belgium,At-Risk
+13073,France,Loyal
+13074,Germany,New
+13075,Spain,At-Risk
+13076,Spain,Champions
+13077,France,At-Risk
+13078,United Kingdom,Potential
+13079,United Kingdom,Loyal
+13080,United Kingdom,Loyal
+13081,United Kingdom,Hibernating
+13082,United Kingdom,New
+13083,United Kingdom,Hibernating
+13084,France,New
+13085,Germany,New
+13086,USA,Champions
+13087,United Kingdom,Champions
+13088,United Kingdom,Potential
+13089,United Kingdom,Champions
+13090,United Kingdom,Potential
+13091,Spain,New
+13092,USA,Hibernating
+13093,United Kingdom,Hibernating
+13094,United Kingdom,Champions
+13095,United Kingdom,Loyal
+13096,United Kingdom,Champions
+13097,United Kingdom,Hibernating
+13098,United Kingdom,Potential
+13099,France,Champions
+13100,United Kingdom,Champions
+13101,Japan,Champions
+13102,United Kingdom,Loyal
+13103,Switzerland,Champions
+13104,Switzerland,Champions
+13105,United Kingdom,Hibernating
+13106,Belgium,Loyal
+13107,United Kingdom,Loyal
+13108,United Kingdom,Potential
+13109,Spain,At-Risk
+13110,United Kingdom,Potential
+13111,Germany,Loyal
+13112,United Kingdom,Loyal
+13113,Belgium,Hibernating
+13114,United Kingdom,Champions
+13115,United Kingdom,Loyal
+13116,Netherlands,Loyal
+13117,Spain,Hibernating
+13118,United Kingdom,Loyal
+13119,Japan,Champions
+13120,United Kingdom,Potential
+13121,France,Loyal
+13122,United Kingdom,New
+13123,United Kingdom,Champions
+13124,United Kingdom,Champions
+13125,Spain,Hibernating
+13126,Japan,New
+13127,Spain,New
+13128,Spain,Loyal
+13129,United Kingdom,At-Risk
+13130,Germany,New
+13131,United Kingdom,Loyal
+13132,France,Champions
+13133,France,Potential
+13134,United Kingdom,Champions
+13135,France,At-Risk
+13136,United Kingdom,Champions
+13137,Germany,Loyal
+13138,United Kingdom,Hibernating
+13139,USA,Hibernating
+13140,United Kingdom,Hibernating
+13141,Germany,New
+13142,Belgium,Potential
+13143,United Kingdom,Champions
+13144,United Kingdom,Loyal
+13145,Spain,New
+13146,United Kingdom,Loyal
+13147,Spain,Champions
+13148,United Kingdom,At-Risk
+13149,United Kingdom,New
+13150,United Kingdom,Hibernating
+13151,Switzerland,New
+13152,United Kingdom,Potential
+13153,United Kingdom,Hibernating
+13154,United Kingdom,Champions
+13155,United Kingdom,Champions
+13156,United Kingdom,Loyal
+13157,Netherlands,Hibernating
+13158,Germany,New
+13159,United Kingdom,Potential
+13160,Japan,Loyal
+13161,Belgium,At-Risk
+13162,United Kingdom,Loyal
+13163,Netherlands,Loyal
+13164,United Kingdom,Loyal
+13165,United Kingdom,Hibernating
+13166,United Kingdom,New
+13167,United Kingdom,Hibernating
+13168,United Kingdom,New
+13169,United Kingdom,New
+13170,Netherlands,Potential
+13171,United Kingdom,At-Risk
+13172,United Kingdom,Loyal
+13173,United Kingdom,Hibernating
+13174,United Kingdom,Loyal
+13175,United Kingdom,New
+13176,United Kingdom,Loyal
+13177,Belgium,Loyal
+13178,Japan,Hibernating
+13179,United Kingdom,Potential
+13180,USA,Loyal
+13181,Germany,Hibernating
+13182,Australia,Champions
+13183,United Kingdom,Hibernating
+13184,United Kingdom,Loyal
+13185,France,New
+13186,United Kingdom,Potential
+13187,United Kingdom,Loyal
+13188,United Kingdom,New
+13189,Germany,Hibernating
+13190,USA,Hibernating
+13191,Japan,New
+13192,USA,Champions
+13193,USA,Potential
+13194,Belgium,Champions
+13195,United Kingdom,New
+13196,United Kingdom,Potential
+13197,Switzerland,New
+13198,United Kingdom,Champions
+13199,Germany,Champions
+13200,Spain,New
+13201,USA,Loyal
+13202,United Kingdom,Loyal
+13203,France,Champions
+13204,United Kingdom,Potential
+13205,United Kingdom,Potential
+13206,United Kingdom,Hibernating
+13207,Netherlands,Champions
+13208,USA,New
+13209,Belgium,Potential
+13210,United Kingdom,At-Risk
+13211,France,Potential
+13212,France,Potential
+13213,United Kingdom,Potential
+13214,United Kingdom,Champions
+13215,United Kingdom,At-Risk
+13216,Spain,Hibernating
+13217,Germany,Loyal
+13218,Belgium,Champions
+13219,France,At-Risk
+13220,Netherlands,Champions
+13221,Germany,Potential
+13222,United Kingdom,Champions
+13223,United Kingdom,At-Risk
+13224,United Kingdom,Champions
+13225,United Kingdom,Loyal
+13226,France,Potential
+13227,United Kingdom,Potential
+13228,Belgium,Loyal
+13229,USA,Loyal
+13230,Germany,Potential
+13231,United Kingdom,Hibernating
+13232,Australia,Potential
+13233,United Kingdom,Potential
+13234,Belgium,At-Risk
+13235,United Kingdom,At-Risk
+13236,Germany,New
+13237,United Kingdom,Champions
+13238,United Kingdom,New
+13239,United Kingdom,Hibernating
+13240,Switzerland,New
+13241,Spain,Potential
+13242,Switzerland,At-Risk
+13243,United Kingdom,At-Risk
+13244,Belgium,Potential
+13245,Switzerland,Champions
+13246,United Kingdom,New
+13247,United Kingdom,New
+13248,Japan,At-Risk
+13249,USA,Champions
+13250,United Kingdom,At-Risk
+13251,United Kingdom,Loyal
+13252,United Kingdom,Loyal
+13253,Germany,Potential
+13254,United Kingdom,New
+13255,USA,Hibernating
+13256,Japan,New
+13257,United Kingdom,New
+13258,Netherlands,Champions
+13259,United Kingdom,Champions
+13260,United Kingdom,Loyal
+13261,Switzerland,Hibernating
+13262,France,New
+13263,Germany,Potential
+13264,France,At-Risk
+13265,United Kingdom,Potential
+13266,Spain,Hibernating
+13267,United Kingdom,At-Risk
+13268,Germany,At-Risk
+13269,United Kingdom,At-Risk
+13270,United Kingdom,At-Risk
+13271,USA,Champions
+13272,United Kingdom,At-Risk
+13273,United Kingdom,Loyal
+13274,France,Loyal
+13275,Netherlands,At-Risk
+13276,United Kingdom,Loyal
+13277,Switzerland,Potential
+13278,Japan,Loyal
+13279,United Kingdom,Champions
+13280,United Kingdom,At-Risk
+13281,Germany,New
+13282,United Kingdom,Loyal
+13283,United Kingdom,Potential
+13284,United Kingdom,At-Risk
+13285,USA,Loyal
+13286,United Kingdom,Hibernating
+13287,USA,Hibernating
+13288,United Kingdom,Champions
+13289,United Kingdom,New
+13290,Belgium,New
+13291,Japan,Loyal
+13292,United Kingdom,Potential
+13293,Germany,Hibernating
+13294,United Kingdom,Potential
+13295,United Kingdom,At-Risk
+13296,USA,Hibernating
+13297,Spain,Hibernating
+13298,Netherlands,New
+13299,United Kingdom,Champions
+13300,Netherlands,Champions
+13301,United Kingdom,Hibernating
+13302,United Kingdom,Champions
+13303,United Kingdom,Loyal
+13304,United Kingdom,Champions
+13305,United Kingdom,Hibernating
+13306,France,Hibernating
+13307,Germany,At-Risk
+13308,United Kingdom,Champions
+13309,Germany,New
+13310,Spain,Champions
+13311,USA,New
+13312,United Kingdom,At-Risk
+13313,France,Hibernating
+13314,USA,Potential
+13315,United Kingdom,Loyal
+13316,Netherlands,New
+13317,United Kingdom,At-Risk
+13318,United Kingdom,At-Risk
+13319,United Kingdom,New
+13320,Australia,Champions
+13321,United Kingdom,New
+13322,Netherlands,New
+13323,Switzerland,At-Risk
+13324,United Kingdom,Potential
+13325,USA,New
+13326,Netherlands,New
+13327,United Kingdom,Hibernating
+13328,France,Loyal
+13329,United Kingdom,New
+13330,USA,Hibernating
+13331,USA,Champions
+13332,Japan,Hibernating
+13333,Netherlands,Champions
+13334,United Kingdom,Potential
+13335,Japan,New
+13336,United Kingdom,New
+13337,Netherlands,Loyal
+13338,United Kingdom,New
+13339,United Kingdom,New
+13340,United Kingdom,At-Risk
+13341,Switzerland,At-Risk
+13342,United Kingdom,Potential
+13343,United Kingdom,Champions
+13344,Belgium,Loyal
+13345,United Kingdom,Potential
+13346,Switzerland,New
+13347,United Kingdom,Potential
+13348,Japan,New
+13349,United Kingdom,Potential
+13350,France,Champions
+13351,United Kingdom,At-Risk
+13352,United Kingdom,Champions
+13353,France,At-Risk
+13354,France,Hibernating
+13355,United Kingdom,At-Risk
+13356,France,New
+13357,USA,Champions
+13358,United Kingdom,Potential
+13359,Germany,At-Risk
+13360,United Kingdom,Champions
+13361,United Kingdom,New
+13362,Australia,Loyal
+13363,United Kingdom,Champions
+13364,United Kingdom,New
+13365,France,At-Risk
+13366,United Kingdom,At-Risk
+13367,Germany,Champions
+13368,Germany,Potential
+13369,United Kingdom,Champions
+13370,France,Loyal
+13371,Germany,At-Risk
+13372,Switzerland,Potential
+13373,Belgium,At-Risk
+13374,Spain,Potential
+13375,United Kingdom,Hibernating
+13376,France,Loyal
+13377,United Kingdom,Hibernating
+13378,United Kingdom,New
+13379,United Kingdom,Loyal
+13380,United Kingdom,Loyal
+13381,Germany,Loyal
+13382,Belgium,Hibernating
+13383,France,Hibernating
+13384,Australia,Potential
+13385,Germany,Champions
+13386,United Kingdom,Champions
+13387,United Kingdom,Loyal
+13388,Japan,New
+13389,United Kingdom,Potential
+13390,United Kingdom,New
+13391,Japan,Hibernating
+13392,Germany,At-Risk
+13393,United Kingdom,At-Risk
+13394,United Kingdom,Champions
+13395,United Kingdom,Potential
+13396,United Kingdom,Loyal
+13397,United Kingdom,Loyal
+13398,United Kingdom,Champions
+13399,United Kingdom,Champions
+13400,United Kingdom,New
+13401,Netherlands,Champions
+13402,United Kingdom,Champions
+13403,Belgium,Hibernating
+13404,France,New
+13405,United Kingdom,At-Risk
+13406,United Kingdom,At-Risk
+13407,Spain,Champions
+13408,Belgium,Hibernating
+13409,United Kingdom,Loyal
+13410,United Kingdom,At-Risk
+13411,United Kingdom,Loyal
+13412,Australia,At-Risk
+13413,USA,At-Risk
+13414,United Kingdom,Hibernating
+13415,Belgium,Hibernating
+13416,United Kingdom,Hibernating
+13417,United Kingdom,Hibernating
+13418,Belgium,Hibernating
+13419,United Kingdom,Loyal
+13420,USA,Loyal
+13421,Japan,Hibernating
+13422,United Kingdom,Potential
+13423,United Kingdom,Loyal
+13424,Japan,Potential
+13425,United Kingdom,Potential
+13426,France,New
+13427,Spain,Champions
+13428,United Kingdom,At-Risk
+13429,USA,New
+13430,United Kingdom,Loyal
+13431,United Kingdom,At-Risk
+13432,United Kingdom,Champions
+13433,Germany,New
+13434,Belgium,Potential
+13435,United Kingdom,Potential
+13436,United Kingdom,At-Risk
+13437,United Kingdom,New
+13438,United Kingdom,Hibernating
+13439,Netherlands,Potential
+13440,USA,New
+13441,United Kingdom,New
+13442,United Kingdom,New
+13443,United Kingdom,Champions
+13444,Japan,New
+13445,Japan,At-Risk
+13446,United Kingdom,Potential
+13447,United Kingdom,Champions
+13448,United Kingdom,Hibernating
+13449,France,Champions
+13450,United Kingdom,New
+13451,United Kingdom,Hibernating
+13452,USA,Potential
+13453,Japan,Loyal
+13454,United Kingdom,Loyal
+13455,United Kingdom,Hibernating
+13456,Australia,New
+13457,United Kingdom,New
+13458,Netherlands,At-Risk
+13459,Belgium,Hibernating
+13460,France,Potential
+13461,USA,At-Risk
+13462,United Kingdom,Hibernating
+13463,USA,New
+13464,Germany,Loyal
+13465,Belgium,Champions
+13466,United Kingdom,New
+13467,United Kingdom,Potential
+13468,USA,Champions
+13469,United Kingdom,Champions
+13470,Switzerland,New
+13471,Spain,Loyal
+13472,United Kingdom,Potential
+13473,United Kingdom,At-Risk
+13474,France,Champions
+13475,Belgium,Potential
+13476,Netherlands,New
+13477,Belgium,Loyal
+13478,United Kingdom,New
+13479,United Kingdom,At-Risk
+13480,Germany,Hibernating
+13481,Germany,Champions
+13482,USA,Champions
+13483,United Kingdom,At-Risk
+13484,Australia,New
+13485,United Kingdom,Champions
+13486,United Kingdom,Potential
+13487,Australia,At-Risk
+13488,Japan,Loyal
+13489,United Kingdom,Loyal
+13490,United Kingdom,New
+13491,United Kingdom,Champions
+13492,Germany,New
+13493,Spain,Potential
+13494,Germany,New
+13495,United Kingdom,Loyal
+13496,Germany,New
+13497,United Kingdom,Hibernating
+13498,USA,Hibernating
+13499,Spain,At-Risk
+13500,United Kingdom,Champions
+13501,France,Loyal
+13502,Switzerland,At-Risk
+13503,Switzerland,Hibernating
+13504,United Kingdom,Potential
+13505,United Kingdom,Champions
+13506,United Kingdom,At-Risk
+13507,United Kingdom,Champions
+13508,Spain,Loyal
+13509,United Kingdom,At-Risk
+13510,France,Potential
+13511,United Kingdom,At-Risk
+13512,United Kingdom,Loyal
+13513,United Kingdom,At-Risk
+13514,United Kingdom,Potential
+13515,Australia,Hibernating
+13516,Germany,New
+13517,United Kingdom,Potential
+13518,United Kingdom,Champions
+13519,USA,New
+13520,Germany,At-Risk
+13521,Germany,New
+13522,United Kingdom,Potential
+13523,United Kingdom,New
+13524,Germany,Potential
+13525,United Kingdom,Hibernating
+13526,United Kingdom,New
+13527,United Kingdom,Potential
+13528,Australia,Champions
+13529,Australia,Hibernating
+13530,United Kingdom,At-Risk
+13531,United Kingdom,Hibernating
+13532,United Kingdom,Loyal
+13533,France,Champions
+13534,Netherlands,Hibernating
+13535,United Kingdom,At-Risk
+13536,United Kingdom,Hibernating
+13537,Switzerland,New
+13538,United Kingdom,At-Risk
+13539,Belgium,Potential
+13540,Switzerland,Hibernating
+13541,Switzerland,New
+13542,Spain,At-Risk
+13543,United Kingdom,New
+13544,United Kingdom,Hibernating
+13545,United Kingdom,Hibernating
+13546,United Kingdom,Champions
+13547,France,Hibernating
+13548,Australia,Hibernating
+13549,United Kingdom,Potential
+13550,USA,Potential
+13551,Japan,At-Risk
+13552,Japan,Hibernating
+13553,Switzerland,New
+13554,Japan,Potential
+13555,France,Hibernating
+13556,United Kingdom,New
+13557,United Kingdom,Loyal
+13558,Netherlands,At-Risk
+13559,Australia,New
+13560,United Kingdom,Champions
+13561,France,New
+13562,United Kingdom,At-Risk
+13563,France,At-Risk
+13564,Spain,Loyal
+13565,United Kingdom,Champions
+13566,United Kingdom,Champions
+13567,United Kingdom,At-Risk
+13568,United Kingdom,Hibernating
+13569,USA,New
+13570,France,Champions
+13571,United Kingdom,At-Risk
+13572,United Kingdom,At-Risk
+13573,Belgium,At-Risk
+13574,France,Loyal
+13575,France,Champions
+13576,USA,New
+13577,Belgium,Champions
+13578,Australia,Champions
+13579,United Kingdom,At-Risk
+13580,Australia,New
+13581,Japan,Potential
+13582,France,Champions
+13583,United Kingdom,Potential
+13584,Australia,Loyal
+13585,United Kingdom,Potential
+13586,Germany,Champions
+13587,Germany,Hibernating
+13588,USA,Hibernating
+13589,United Kingdom,Champions
+13590,United Kingdom,Champions
+13591,Belgium,At-Risk
+13592,United Kingdom,Hibernating
+13593,Netherlands,Potential
+13594,Netherlands,New
+13595,United Kingdom,Champions
+13596,United Kingdom,At-Risk
+13597,United Kingdom,At-Risk
+13598,Australia,Champions
+13599,United Kingdom,At-Risk
+13600,Spain,Champions
+13601,United Kingdom,New
+13602,United Kingdom,Loyal
+13603,USA,Loyal
+13604,United Kingdom,Potential
+13605,United Kingdom,At-Risk
+13606,United Kingdom,Hibernating
+13607,United Kingdom,Potential
+13608,Spain,Champions
+13609,Spain,Potential
+13610,United Kingdom,Hibernating
+13611,United Kingdom,Potential
+13612,USA,At-Risk
+13613,Japan,Potential
+13614,United Kingdom,Loyal
+13615,Australia,New
+13616,United Kingdom,New
+13617,Japan,At-Risk
+13618,United Kingdom,Loyal
+13619,United Kingdom,Loyal
+13620,Japan,Potential
+13621,United Kingdom,Potential
+13622,United Kingdom,Champions
+13623,United Kingdom,Champions
+13624,Switzerland,New
+13625,United Kingdom,New
+13626,Japan,At-Risk
+13627,Netherlands,Champions
+13628,Switzerland,Potential
+13629,United Kingdom,Champions
+13630,United Kingdom,Hibernating
+13631,Netherlands,Hibernating
+13632,Netherlands,New
+13633,Spain,Champions
+13634,France,Loyal
+13635,France,Potential
+13636,United Kingdom,New
+13637,United Kingdom,At-Risk
+13638,United Kingdom,Champions
+13639,United Kingdom,Loyal
+13640,Germany,Potential
+13641,Belgium,Hibernating
+13642,Spain,At-Risk
+13643,United Kingdom,Potential
+13644,United Kingdom,Loyal
+13645,Spain,At-Risk
+13646,Belgium,Loyal
+13647,United Kingdom,At-Risk
+13648,United Kingdom,New
+13649,USA,Hibernating
+13650,United Kingdom,Champions
+13651,Japan,Potential
+13652,France,Loyal
+13653,Japan,New
+13654,United Kingdom,Potential
+13655,Australia,Champions
+13656,United Kingdom,New
+13657,France,Loyal
+13658,United Kingdom,At-Risk
+13659,United Kingdom,Hibernating
+13660,United Kingdom,Potential
+13661,Germany,New
+13662,Switzerland,New
+13663,United Kingdom,Potential
+13664,United Kingdom,At-Risk
+13665,United Kingdom,New
+13666,United Kingdom,New
+13667,Australia,Hibernating
+13668,United Kingdom,At-Risk
+13669,Netherlands,Loyal
+13670,United Kingdom,New
+13671,Belgium,Champions
+13672,United Kingdom,At-Risk
+13673,United Kingdom,New
+13674,Japan,At-Risk
+13675,France,Potential
+13676,United Kingdom,Champions
+13677,United Kingdom,At-Risk
+13678,USA,New
+13679,Spain,Potential
+13680,United Kingdom,New
+13681,Netherlands,At-Risk
+13682,United Kingdom,Hibernating
+13683,United Kingdom,At-Risk
+13684,Japan,New
+13685,Japan,Hibernating
+13686,Japan,Hibernating
+13687,Spain,Champions
+13688,United Kingdom,Hibernating
+13689,France,At-Risk
+13690,USA,Potential
+13691,United Kingdom,Hibernating
+13692,United Kingdom,Loyal
+13693,United Kingdom,Hibernating
+13694,United Kingdom,At-Risk
+13695,Australia,Loyal
+13696,United Kingdom,Potential
+13697,Germany,Loyal
+13698,United Kingdom,At-Risk
+13699,United Kingdom,Loyal
+13700,United Kingdom,At-Risk
+13701,Netherlands,New
+13702,United Kingdom,At-Risk
+13703,France,At-Risk
+13704,Germany,New
+13705,Japan,At-Risk
+13706,Netherlands,New
+13707,Belgium,Loyal
+13708,Germany,Potential
+13709,France,New
+13710,United Kingdom,Loyal
+13711,United Kingdom,Loyal
+13712,United Kingdom,At-Risk
+13713,United Kingdom,New
+13714,United Kingdom,New
+13715,United Kingdom,At-Risk
+13716,USA,Hibernating
+13717,United Kingdom,New
+13718,United Kingdom,Potential
+13719,Australia,Champions
+13720,United Kingdom,Loyal
+13721,Australia,Loyal
+13722,Switzerland,Potential
+13723,Germany,At-Risk
+13724,Germany,Potential
+13725,France,Hibernating
+13726,USA,Champions
+13727,Germany,Hibernating
+13728,United Kingdom,Champions
+13729,United Kingdom,New
+13730,Spain,At-Risk
+13731,United Kingdom,Potential
+13732,USA,Champions
+13733,United Kingdom,Hibernating
+13734,Japan,Champions
+13735,Switzerland,Loyal
+13736,United Kingdom,New
+13737,Switzerland,Potential
+13738,United Kingdom,Potential
+13739,USA,Hibernating
+13740,France,At-Risk
+13741,USA,Potential
+13742,France,New
+13743,United Kingdom,Potential
+13744,USA,Hibernating
+13745,United Kingdom,Champions
+13746,Switzerland,At-Risk
+13747,United Kingdom,Champions
+13748,Netherlands,Hibernating
+13749,USA,New
+13750,United Kingdom,At-Risk
+13751,United Kingdom,New
+13752,United Kingdom,Loyal
+13753,United Kingdom,New
+13754,United Kingdom,Potential
+13755,United Kingdom,At-Risk
+13756,United Kingdom,New
+13757,Netherlands,At-Risk
+13758,Japan,Hibernating
+13759,United Kingdom,Potential
+13760,United Kingdom,At-Risk
+13761,Germany,New
+13762,United Kingdom,New
+13763,United Kingdom,Hibernating
+13764,France,Champions
+13765,Netherlands,At-Risk
+13766,France,New
+13767,France,Champions
+13768,United Kingdom,At-Risk
+13769,USA,Potential
+13770,United Kingdom,Potential
+13771,Netherlands,New
+13772,Germany,Potential
+13773,Germany,At-Risk
+13774,United Kingdom,Champions
+13775,Japan,New
+13776,United Kingdom,Loyal
+13777,Spain,At-Risk
+13778,Australia,Hibernating
+13779,United Kingdom,Hibernating
+13780,United Kingdom,Champions
+13781,Japan,Hibernating
+13782,United Kingdom,New
+13783,United Kingdom,New
+13784,Spain,Hibernating
+13785,Switzerland,At-Risk
+13786,United Kingdom,Champions
+13787,Belgium,Champions
+13788,United Kingdom,Potential
+13789,United Kingdom,Loyal
+13790,Australia,Champions
+13791,United Kingdom,Potential
+13792,United Kingdom,Hibernating
+13793,Netherlands,Potential
+13794,United Kingdom,At-Risk
+13795,United Kingdom,Loyal
+13796,United Kingdom,Champions
+13797,Netherlands,Hibernating
+13798,United Kingdom,Potential
+13799,United Kingdom,Hibernating
+13800,United Kingdom,New
+13801,United Kingdom,Loyal
+13802,France,New
+13803,Spain,Potential
+13804,USA,Hibernating
+13805,Netherlands,At-Risk
+13806,France,Hibernating
+13807,United Kingdom,Potential
+13808,USA,Potential
+13809,United Kingdom,At-Risk
+13810,United Kingdom,Loyal
+13811,United Kingdom,Champions
+13812,Switzerland,Potential
+13813,USA,Champions
+13814,United Kingdom,Potential
+13815,United Kingdom,Loyal
+13816,United Kingdom,Potential
+13817,Australia,Hibernating
+13818,United Kingdom,At-Risk
+13819,Belgium,Loyal
+13820,United Kingdom,Champions
+13821,United Kingdom,Loyal
+13822,Netherlands,New
+13823,USA,New
+13824,United Kingdom,New
+13825,France,Loyal
+13826,United Kingdom,New
+13827,United Kingdom,Champions
+13828,United Kingdom,Potential
+13829,United Kingdom,New
+13830,Australia,Potential
+13831,Germany,Potential
+13832,Germany,At-Risk
+13833,United Kingdom,New
+13834,United Kingdom,Hibernating
+13835,Netherlands,Potential
+13836,Japan,New
+13837,United Kingdom,Champions
+13838,Germany,New
+13839,Germany,Hibernating
+13840,United Kingdom,Potential
+13841,United Kingdom,New
+13842,United Kingdom,Hibernating
+13843,Japan,At-Risk
+13844,United Kingdom,New
+13845,United Kingdom,At-Risk
+13846,Netherlands,New
+13847,United Kingdom,Loyal
+13848,Germany,Hibernating
+13849,Japan,At-Risk
+13850,Japan,Potential
+13851,France,Loyal
+13852,Japan,Potential
+13853,Netherlands,New
+13854,Switzerland,Potential
+13855,France,At-Risk
+13856,Belgium,Loyal
+13857,France,At-Risk
+13858,Spain,Champions
+13859,Spain,Loyal
+13860,United Kingdom,Loyal
+13861,France,Champions
+13862,Belgium,New
+13863,United Kingdom,Loyal
+13864,Germany,Champions
+13865,United Kingdom,At-Risk
+13866,United Kingdom,Loyal
+13867,United Kingdom,Hibernating
+13868,United Kingdom,Champions
+13869,United Kingdom,Champions
+13870,France,Champions
+13871,Germany,New
+13872,United Kingdom,At-Risk
+13873,Belgium,Champions
+13874,Belgium,Hibernating
+13875,United Kingdom,Loyal
+13876,Australia,Hibernating
+13877,France,Champions
+13878,Spain,New
+13879,Belgium,Champions
+13880,USA,Hibernating
+13881,France,Champions
+13882,Switzerland,Champions
+13883,Germany,Loyal
+13884,France,Loyal
+13885,Japan,Loyal
+13886,Netherlands,Potential
+13887,United Kingdom,Hibernating
+13888,United Kingdom,Champions
+13889,United Kingdom,At-Risk
+13890,United Kingdom,Loyal
+13891,United Kingdom,Loyal
+13892,United Kingdom,New
+13893,Belgium,Champions
+13894,United Kingdom,New
+13895,United Kingdom,Hibernating
+13896,United Kingdom,At-Risk
+13897,United Kingdom,New
+13898,United Kingdom,Potential
+13899,United Kingdom,Hibernating
+13900,United Kingdom,Loyal
+13901,United Kingdom,New
+13902,United Kingdom,New
+13903,Japan,Hibernating
+13904,Belgium,At-Risk
+13905,USA,New
+13906,United Kingdom,Champions
+13907,Netherlands,Hibernating
+13908,USA,Champions
+13909,United Kingdom,New
+13910,USA,Loyal
+13911,United Kingdom,New
+13912,Netherlands,Potential
+13913,Japan,Loyal
+13914,Japan,Champions
+13915,USA,Potential
+13916,Belgium,Hibernating
+13917,USA,New
+13918,United Kingdom,Potential
+13919,Spain,At-Risk
+13920,Netherlands,At-Risk
+13921,Japan,Champions
+13922,Switzerland,Hibernating
+13923,France,Loyal
+13924,Spain,New
+13925,France,Hibernating
+13926,France,Hibernating
+13927,France,Potential
+13928,United Kingdom,Potential
+13929,United Kingdom,Loyal
+13930,Japan,Champions
+13931,United Kingdom,At-Risk
+13932,United Kingdom,Potential
+13933,Netherlands,Loyal
+13934,Germany,Hibernating
+13935,United Kingdom,Champions
+13936,Germany,At-Risk
+13937,Germany,Potential
+13938,United Kingdom,Champions
+13939,Japan,Hibernating
+13940,France,Loyal
+13941,Switzerland,At-Risk
+13942,Netherlands,Hibernating
+13943,United Kingdom,Champions
+13944,Australia,At-Risk
+13945,France,At-Risk
+13946,United Kingdom,Potential
+13947,USA,New
+13948,United Kingdom,Potential
+13949,United Kingdom,At-Risk
+13950,USA,Potential
+13951,USA,Hibernating
+13952,Netherlands,Potential
+13953,Spain,Hibernating
+13954,United Kingdom,At-Risk
+13955,United Kingdom,Potential
+13956,Germany,Loyal
+13957,Netherlands,Hibernating
+13958,Netherlands,Champions
+13959,United Kingdom,Hibernating
+13960,United Kingdom,At-Risk
+13961,United Kingdom,Loyal
+13962,Netherlands,New
+13963,United Kingdom,Champions
+13964,United Kingdom,Loyal
+13965,United Kingdom,New
+13966,United Kingdom,Potential
+13967,Germany,Hibernating
+13968,Germany,New
+13969,Australia,Hibernating
+13970,United Kingdom,New
+13971,USA,Potential
+13972,Japan,New
+13973,Netherlands,New
+13974,Switzerland,Loyal
+13975,Germany,New
+13976,Netherlands,Loyal
+13977,USA,Hibernating
+13978,Australia,Champions
+13979,Spain,New
+13980,United Kingdom,Potential
+13981,United Kingdom,Hibernating
+13982,United Kingdom,Champions
+13983,France,New
+13984,United Kingdom,At-Risk
+13985,Germany,Champions
+13986,Germany,Champions
+13987,United Kingdom,At-Risk
+13988,United Kingdom,New
+13989,United Kingdom,Loyal
+13990,United Kingdom,Hibernating
+13991,United Kingdom,At-Risk
+13992,Japan,Loyal
+13993,United Kingdom,Potential
+13994,United Kingdom,Champions
+13995,Germany,Champions
+13996,Australia,New
+13997,United Kingdom,At-Risk
+13998,Germany,At-Risk
+13999,Belgium,New
+14000,Switzerland,Hibernating

@@ -1,0 +1,201 @@
+StockCode,Description,Category,UnitPrice
+P0001,Kitchen Item 001,Kitchen,4.43
+P0002,Toys & Games Item 002,Toys & Games,16.49
+P0003,Clothing Item 003,Clothing,60.24
+P0004,Kitchen Item 004,Kitchen,36.66
+P0005,Home Decor Item 005,Home Decor,3.77
+P0006,Stationery Item 006,Stationery,6.58
+P0007,Home Decor Item 007,Home Decor,26.35
+P0008,Beauty Item 008,Beauty,18.16
+P0009,Toys & Games Item 009,Toys & Games,45.28
+P0010,Home Decor Item 010,Home Decor,34.75
+P0011,Clothing Item 011,Clothing,57.36
+P0012,Electronics Item 012,Electronics,48.9
+P0013,Stationery Item 013,Stationery,23.97
+P0014,Electronics Item 014,Electronics,24.31
+P0015,Beauty Item 015,Beauty,9.93
+P0016,Electronics Item 016,Electronics,94.52
+P0017,Home Decor Item 017,Home Decor,33.51
+P0018,Kitchen Item 018,Kitchen,58.47
+P0019,Beauty Item 019,Beauty,8.74
+P0020,Toys & Games Item 020,Toys & Games,46.3
+P0021,Electronics Item 021,Electronics,90.83
+P0022,Kitchen Item 022,Kitchen,5.61
+P0023,Stationery Item 023,Stationery,19.55
+P0024,Kitchen Item 024,Kitchen,51.75
+P0025,Kitchen Item 025,Kitchen,24.67
+P0026,Garden Item 026,Garden,59.03
+P0027,Electronics Item 027,Electronics,32.77
+P0028,Electronics Item 028,Electronics,39.33
+P0029,Toys & Games Item 029,Toys & Games,39.79
+P0030,Kitchen Item 030,Kitchen,37.72
+P0031,Clothing Item 031,Clothing,45.06
+P0032,Stationery Item 032,Stationery,4.92
+P0033,Beauty Item 033,Beauty,21.45
+P0034,Stationery Item 034,Stationery,17.43
+P0035,Home Decor Item 035,Home Decor,12.23
+P0036,Home Decor Item 036,Home Decor,36.71
+P0037,Beauty Item 037,Beauty,21.3
+P0038,Stationery Item 038,Stationery,22.92
+P0039,Electronics Item 039,Electronics,39.77
+P0040,Garden Item 040,Garden,38.63
+P0041,Garden Item 041,Garden,17.14
+P0042,Clothing Item 042,Clothing,23.5
+P0043,Toys & Games Item 043,Toys & Games,42.1
+P0044,Beauty Item 044,Beauty,63.21
+P0045,Beauty Item 045,Beauty,27.57
+P0046,Clothing Item 046,Clothing,43.21
+P0047,Kitchen Item 047,Kitchen,46.08
+P0048,Kitchen Item 048,Kitchen,11.71
+P0049,Clothing Item 049,Clothing,64.41
+P0050,Beauty Item 050,Beauty,43.16
+P0051,Beauty Item 051,Beauty,28.88
+P0052,Garden Item 052,Garden,49.97
+P0053,Home Decor Item 053,Home Decor,31.41
+P0054,Kitchen Item 054,Kitchen,41.86
+P0055,Toys & Games Item 055,Toys & Games,43.2
+P0056,Electronics Item 056,Electronics,25.62
+P0057,Beauty Item 057,Beauty,14.02
+P0058,Home Decor Item 058,Home Decor,43.04
+P0059,Toys & Games Item 059,Toys & Games,53.57
+P0060,Clothing Item 060,Clothing,43.08
+P0061,Kitchen Item 061,Kitchen,52.62
+P0062,Toys & Games Item 062,Toys & Games,46.93
+P0063,Stationery Item 063,Stationery,4.67
+P0064,Clothing Item 064,Clothing,45.45
+P0065,Home Decor Item 065,Home Decor,27.96
+P0066,Garden Item 066,Garden,6.66
+P0067,Electronics Item 067,Electronics,133.02
+P0068,Toys & Games Item 068,Toys & Games,16.21
+P0069,Stationery Item 069,Stationery,22.07
+P0070,Kitchen Item 070,Kitchen,7.88
+P0071,Garden Item 071,Garden,74.36
+P0072,Clothing Item 072,Clothing,14.63
+P0073,Garden Item 073,Garden,85.48
+P0074,Clothing Item 074,Clothing,24.88
+P0075,Beauty Item 075,Beauty,67.63
+P0076,Stationery Item 076,Stationery,18.11
+P0077,Beauty Item 077,Beauty,69.68
+P0078,Electronics Item 078,Electronics,71.33
+P0079,Garden Item 079,Garden,15.29
+P0080,Stationery Item 080,Stationery,2.54
+P0081,Home Decor Item 081,Home Decor,27.5
+P0082,Stationery Item 082,Stationery,15.12
+P0083,Home Decor Item 083,Home Decor,5.52
+P0084,Home Decor Item 084,Home Decor,12.23
+P0085,Home Decor Item 085,Home Decor,39.03
+P0086,Kitchen Item 086,Kitchen,32.31
+P0087,Toys & Games Item 087,Toys & Games,38.12
+P0088,Stationery Item 088,Stationery,13.94
+P0089,Garden Item 089,Garden,25.65
+P0090,Garden Item 090,Garden,73.64
+P0091,Stationery Item 091,Stationery,3.26
+P0092,Beauty Item 092,Beauty,27.06
+P0093,Beauty Item 093,Beauty,34.56
+P0094,Home Decor Item 094,Home Decor,31.12
+P0095,Kitchen Item 095,Kitchen,6.45
+P0096,Electronics Item 096,Electronics,122.08
+P0097,Kitchen Item 097,Kitchen,17.17
+P0098,Stationery Item 098,Stationery,13.87
+P0099,Clothing Item 099,Clothing,36.64
+P0100,Toys & Games Item 100,Toys & Games,27.59
+P0101,Kitchen Item 101,Kitchen,28.26
+P0102,Kitchen Item 102,Kitchen,5.88
+P0103,Home Decor Item 103,Home Decor,43.68
+P0104,Stationery Item 104,Stationery,4.99
+P0105,Garden Item 105,Garden,45.92
+P0106,Beauty Item 106,Beauty,63.51
+P0107,Clothing Item 107,Clothing,33.42
+P0108,Beauty Item 108,Beauty,21.14
+P0109,Garden Item 109,Garden,29.25
+P0110,Garden Item 110,Garden,18.16
+P0111,Toys & Games Item 111,Toys & Games,15.1
+P0112,Home Decor Item 112,Home Decor,27.12
+P0113,Home Decor Item 113,Home Decor,34.29
+P0114,Home Decor Item 114,Home Decor,4.63
+P0115,Garden Item 115,Garden,47.74
+P0116,Clothing Item 116,Clothing,9.27
+P0117,Kitchen Item 117,Kitchen,51.53
+P0118,Kitchen Item 118,Kitchen,36.92
+P0119,Stationery Item 119,Stationery,10.69
+P0120,Stationery Item 120,Stationery,14.89
+P0121,Home Decor Item 121,Home Decor,28.82
+P0122,Beauty Item 122,Beauty,47.22
+P0123,Electronics Item 123,Electronics,140.86
+P0124,Stationery Item 124,Stationery,17.07
+P0125,Electronics Item 125,Electronics,43.42
+P0126,Beauty Item 126,Beauty,12.2
+P0127,Toys & Games Item 127,Toys & Games,27.32
+P0128,Kitchen Item 128,Kitchen,3.53
+P0129,Kitchen Item 129,Kitchen,7.18
+P0130,Stationery Item 130,Stationery,13.14
+P0131,Clothing Item 131,Clothing,74.99
+P0132,Kitchen Item 132,Kitchen,53.12
+P0133,Electronics Item 133,Electronics,49.9
+P0134,Garden Item 134,Garden,75.87
+P0135,Toys & Games Item 135,Toys & Games,35.2
+P0136,Home Decor Item 136,Home Decor,30.88
+P0137,Toys & Games Item 137,Toys & Games,51.52
+P0138,Kitchen Item 138,Kitchen,56.52
+P0139,Clothing Item 139,Clothing,24.83
+P0140,Kitchen Item 140,Kitchen,45.32
+P0141,Clothing Item 141,Clothing,25.43
+P0142,Stationery Item 142,Stationery,18.22
+P0143,Stationery Item 143,Stationery,17.5
+P0144,Toys & Games Item 144,Toys & Games,29.78
+P0145,Toys & Games Item 145,Toys & Games,50.17
+P0146,Home Decor Item 146,Home Decor,6.42
+P0147,Beauty Item 147,Beauty,58.65
+P0148,Home Decor Item 148,Home Decor,2.65
+P0149,Clothing Item 149,Clothing,52.78
+P0150,Toys & Games Item 150,Toys & Games,12.24
+P0151,Garden Item 151,Garden,51.89
+P0152,Beauty Item 152,Beauty,40.8
+P0153,Kitchen Item 153,Kitchen,7.29
+P0154,Clothing Item 154,Clothing,45.92
+P0155,Electronics Item 155,Electronics,91.55
+P0156,Clothing Item 156,Clothing,37.23
+P0157,Home Decor Item 157,Home Decor,15.6
+P0158,Home Decor Item 158,Home Decor,40.7
+P0159,Stationery Item 159,Stationery,17.37
+P0160,Kitchen Item 160,Kitchen,23.16
+P0161,Beauty Item 161,Beauty,68.26
+P0162,Clothing Item 162,Clothing,74.43
+P0163,Stationery Item 163,Stationery,21.75
+P0164,Clothing Item 164,Clothing,71.11
+P0165,Home Decor Item 165,Home Decor,10.12
+P0166,Electronics Item 166,Electronics,119.53
+P0167,Beauty Item 167,Beauty,56.85
+P0168,Stationery Item 168,Stationery,7.4
+P0169,Kitchen Item 169,Kitchen,24.8
+P0170,Home Decor Item 170,Home Decor,38.99
+P0171,Stationery Item 171,Stationery,5.79
+P0172,Garden Item 172,Garden,34.72
+P0173,Stationery Item 173,Stationery,6.35
+P0174,Stationery Item 174,Stationery,10.56
+P0175,Toys & Games Item 175,Toys & Games,48.08
+P0176,Toys & Games Item 176,Toys & Games,21.91
+P0177,Beauty Item 177,Beauty,48.69
+P0178,Electronics Item 178,Electronics,141.49
+P0179,Kitchen Item 179,Kitchen,52.99
+P0180,Toys & Games Item 180,Toys & Games,13.11
+P0181,Toys & Games Item 181,Toys & Games,5.95
+P0182,Beauty Item 182,Beauty,26.49
+P0183,Electronics Item 183,Electronics,71.1
+P0184,Kitchen Item 184,Kitchen,24.96
+P0185,Stationery Item 185,Stationery,7.11
+P0186,Beauty Item 186,Beauty,3.61
+P0187,Stationery Item 187,Stationery,9.74
+P0188,Kitchen Item 188,Kitchen,57.09
+P0189,Electronics Item 189,Electronics,97.24
+P0190,Kitchen Item 190,Kitchen,44.03
+P0191,Toys & Games Item 191,Toys & Games,29.86
+P0192,Beauty Item 192,Beauty,25.19
+P0193,Toys & Games Item 193,Toys & Games,32.28
+P0194,Stationery Item 194,Stationery,11.09
+P0195,Beauty Item 195,Beauty,48.54
+P0196,Clothing Item 196,Clothing,51.16
+P0197,Toys & Games Item 197,Toys & Games,24.71
+P0198,Home Decor Item 198,Home Decor,15.41
+P0199,Stationery Item 199,Stationery,11.32
+P0200,Electronics Item 200,Electronics,75.1
